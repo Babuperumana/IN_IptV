@@ -1,0 +1,49 @@
+name: Automated IN_IptV Playlist Update
+
+on:
+  schedule:
+    - cron: '*/30 * * * *'  # Runs every 30 minutes
+  workflow_dispatch:        # Allows manual triggering
+  push:
+    branches:
+      - main                # Runs on pushing to main branch
+
+jobs:
+  update-playlist:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write       # Required to commit changes back
+      
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+          
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.10'
+          
+      - name: Install Dependencies
+        run: |
+          pip install -r requirements.txt
+          
+      - name: Generate Playlist
+        run: |
+          export TZ="Asia/Kolkata"
+          python scripts/generator.py
+          
+      - name: Configure Git User
+        run: |
+          git config --global user.name "IN_IptV Bot"
+          git config --global user.email "bot@in_iptv.local"
+          
+      - name: Commit and Push
+        run: |
+          export TZ="Asia/Kolkata"
+          git add playlist.m3u
+          # Exit if there are no changes
+          git diff --cached --quiet && echo "No changes to commit" && exit 0
+          git commit -m "Auto-Update: Playlist Updated ✅ [$(date +'%d-%m-%Y %H:%M')]"
+          git push origin main
