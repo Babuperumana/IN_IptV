@@ -68,4 +68,4 @@ jobs:
           git rebase origin/main
           
           # Push the changes
-          git push origin main
+          for i in {1..5}; do git pull --rebase origin main && git push origin main && break || sleep 5; done

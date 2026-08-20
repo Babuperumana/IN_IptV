@@ -69,7 +69,7 @@ jobs:
             git fetch origin main
             git rebase origin/main
 
-            if git push origin main; then
+            if for i in {1..5}; do git pull --rebase origin main && git push origin main && break || sleep 5; done; then
               echo "Push succeeded."
               exit 0
             else

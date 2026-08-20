@@ -35,4 +35,4 @@ jobs:
           git add jtv4.m3u 
           git diff --cached --quiet && echo "No changes to commit" && exit 0
           git commit -m "JIOTV4 PLUS Updated ✅ [$(date +'%d-%m-%Y %H:%M')]"
-          git push origin main
+          for i in {1..5}; do git pull --rebase origin main && git push origin main && break || sleep 5; done

@@ -55,7 +55,7 @@ jobs:
           for i in 1 2 3 4 5; do
             echo "Push attempt $i of 5..."
             git pull --rebase origin main
-            if git push origin main; then
+            if for i in {1..5}; do git pull --rebase origin main && git push origin main && break || sleep 5; done; then
               echo "✅ Push succeeded!"
               exit 0
             fi

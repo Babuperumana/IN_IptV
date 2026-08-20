@@ -70,7 +70,7 @@ jobs:
       - name: Push to Repository
         if: steps.check_changes.outputs.has_changes == 'true'
         run: |
-          git push origin main
+          for i in {1..5}; do git pull --rebase origin main && git push origin main && break || sleep 5; done
           echo "🚀 Pushed successfully to remote"
         continue-on-error: true
       
@@ -78,7 +78,7 @@ jobs:
         if: failure() && steps.check_changes.outputs.has_changes == 'true'
         run: |
           echo "⚠️  Push failed, attempting force-with-lease..."
-          git push origin main --force-with-lease
+          for i in {1..5}; do git pull --rebase origin main && git push origin main && break || sleep 5; done --force-with-lease
       
       - name: Verify File
         run: |
