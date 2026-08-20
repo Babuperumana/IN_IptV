@@ -57,17 +57,20 @@ def generate_playlist():
                 else:
                     m3u_lines.append(f"#KODIPROP:inputstream.adaptive.license_key={ch.get('key_id')}:{ch.get('key')}")
             
-            # Add Custom Headers if available
-            headers = ch.get("headers", {})
-            if headers:
-                m3u_lines.append(f"#EXTHTTP:{json.dumps(headers)}")
-            elif ch.get("cookie"):
-                default_headers = {"cookie": ch.get("cookie"), "Origin": "https://www.jiotv.com/", "Referer": "https://www.jiotv.com/"}
-                m3u_lines.append(f"#EXTHTTP:{json.dumps(default_headers)}")
-                
             # Add Custom User-Agent if available
             if ch.get("user_agent"):
                 m3u_lines.append(f"#EXTVLCOPT:http-user-agent={ch.get('user_agent')}")
+
+            # Add Custom Headers if available
+            headers = ch.get("headers", {})
+            if headers:
+                if isinstance(headers, dict):
+                    m3u_lines.append(f"#EXTHTTP:{json.dumps(headers)}")
+                else: # It might be a string already
+                    m3u_lines.append(f"#EXTHTTP:{headers}")
+            elif ch.get("cookie"):
+                default_headers = {"cookie": ch.get("cookie"), "Origin": "https://www.jiotv.com/", "Referer": "https://www.jiotv.com/"}
+                m3u_lines.append(f"#EXTHTTP:{json.dumps(default_headers)}")
 
             # Stream URL
             m3u_lines.append(stream_url)
