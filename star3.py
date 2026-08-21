@@ -15,7 +15,7 @@ try:
         content = response.read().decode('utf-8')
         
         
-        content = content.replace('@Premiumplugx', '@sayan10')
+        content = content.replace('@Premiumplugx', '@Babuperumana')
         
         
        
