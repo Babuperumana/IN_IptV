@@ -1,0 +1,40 @@
+name: Fallback Auto-Router
+
+on:
+  schedule:
+    - cron: '15 * * * *'  # Runs at minute 15 past every hour
+  workflow_dispatch:      # Allows manual trigger from GitHub UI
+
+jobs:
+  route-playlist:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write       # Required to commit changes back
+      
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+          
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.10'
+          
+      - name: Run Auto Router Script
+        run: python auto_update.py
+          
+      - name: Configure Git User
+        run: |
+          git config --global user.name "IN_IptV Auto-Router"
+          git config --global user.email "bot@in_iptv.local"
+          
+      - name: Commit and Push final.m3u
+        run: |
+          export TZ="Asia/Kolkata"
+          git add final.m3u
+          # Exit if there are no changes
+          git diff --cached --quiet && echo "No changes to commit, final.m3u is still active." && exit 0
+          git commit -m "Auto-Router: Fallback to new working playlist ✅ [$(date +'%d-%m-%Y %H:%M')]"
+          for i in {1..5}; do git pull --rebase origin main && git push origin main && break || sleep 5; done
