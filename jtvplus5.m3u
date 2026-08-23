@@ -1,5 +1,5 @@
 #EXTM3U x-tvg-url="https://avkb.short.gy/jioepg.xml.gz"
-# Generated: 24/8/2026, 00:05:50
+# Generated: 24/8/2026, 00:55:23
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=6752015acf084572a08dfe21796f8b45:ff823ddbe5625c35d3e93f0ed4520115
@@ -8664,41 +8664,37 @@ https://jiotvmblive.cdn.jio.com/bpk-tv/4sites/HLSPartner/index.m3u8
 #EXTHTTP:{"cookie":"__hdnea__=st=1787508011~exp=1787529611~acl=/*~hmac=473520558432e9636c19f37c92b89dac719e89e370306bb5123d6c6e8db2a298","Origin":"https://www.jiotv.com/","Referer":"https://www.jiotv.com/"}
 https://jiotvmblive.cdn.jio.com/bpk-tv/UIPMPentathlonWC_MOB/WDVLive/index.mpd
 
-#EXTINF:-1 tvg-id="event-0.9578916273682" group-title="LIVE SPORTS | STREAMX" group-logo="https://i.postimg.cc/3xnDC1d6/live-sports.png" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4248002_53005_NDS_ODW_fc-Web.png",2026 [English]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://in-mc-flive.fancode.com/mumbai/4248002_english_hls_74cda68c1125354_1ta-di_h264/1080p.m3u8?hdntl=Expires=1787585780~_GO=Generated~acl=/mumbai/4248002_english_hls_74cda68c1125354_1ta-di_h264/*~Signature=ARceAWMn4zYIpHiU1-rLG7DYR-pBcFr3c3jVL2w9JNdEs2k5hxgYZOoiYoQ36yJyuI3CY1leJhseXVcBw3eBE-5BNY4M
-
-#EXTINF:-1 tvg-id="event-0.07454506451628495" group-title="LIVE SPORTS | STREAMX" group-logo="https://i.postimg.cc/3xnDC1d6/live-sports.png" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4248348_53029_MER_GOR_FC-Web_1786702851594.png",2026 [Hindi]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://in-mc-flive.fancode.com/mumbai/4248348_hindi_hls_4f4e4a4eb747947_1ta-di_h264/1080p.m3u8?hdntl=Expires=1787585781~_GO=Generated~acl=/mumbai/4248348_hindi_hls_4f4e4a4eb747947_1ta-di_h264/*~Signature=ARceAWPGoEsndCA7On23hRRC9HUkpjWllvEvgq60C2WhKcr1FNyQJjgPHfO02-V-C_bZZDkLJmkhmBuOJVPWlJjsZUMF
-
-#EXTINF:-1 tvg-id="event-0.7429420832015154" group-title="LIVE SPORTS | STREAMX" group-logo="https://i.postimg.cc/3xnDC1d6/live-sports.png" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4248348_53029_MER_GOR_FC-Web_1786702851594.png",2026 [Bhojpuri]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://in-mc-flive.fancode.com/mumbai/4248348_bhojpuri_hls_3036d556a526113_1ta-di_h264/1080p.m3u8?hdntl=Expires=1787585782~_GO=Generated~acl=/mumbai/4248348_bhojpuri_hls_3036d556a526113_1ta-di_h264/*~Signature=ARceAWNwCEVgpXsaGEEIXC_tp90MSsJKBTfxDuU4IAXd2hKkn0utdKIuKw_19_SJkNu3CG2r-rcqOPKObymRJjw3RvII
-
-#EXTINF:-1 tvg-id="event-0.3512397609879859" group-title="LIVE SPORTS | STREAMX" group-logo="https://i.postimg.cc/3xnDC1d6/live-sports.png" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4247584_53004_GEF_RAC_FC-Web.png",LALIGA 2026-27 [English]
+#EXTINF:-1 tvg-id="event-0.9290663119344127" group-title="LIVE SPORTS | STREAMX" group-logo="https://i.postimg.cc/3xnDC1d6/live-sports.png" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4247584_53004_GEF_RAC_FC-Web.png",LALIGA 2026-27 [English]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://in-mc-flive.fancode.com/mumbai/4247584_english_hls_6f81107c3712088_1ta-di_h264/1080p5.m3u8?hdntl=Expires=1787590982~_GO=Generated~acl=/mumbai/4247584_english_hls_6f81107c3712088_1ta-di_h264/*~Signature=ARceAWMoAmJsQU3KGjyXPOsMZDS2Tpzg3cTuZefBnEla7SMb-X9e-FCxoOgBHlhprGWEUlg7i5VBez1Ai7cY7AFHhksC
 
-#EXTINF:-1 tvg-id="event-0.5020656481888436" group-title="LIVE SPORTS | STREAMX" group-logo="https://i.postimg.cc/3xnDC1d6/live-sports.png" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/BMW-Championship-2026-old-.png",BMW Championship 2026 [English]
+#EXTINF:-1 tvg-id="event-0.8055255611619337" group-title="LIVE SPORTS | STREAMX" group-logo="https://i.postimg.cc/3xnDC1d6/live-sports.png" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4247581_53004_ELC_BAR_FC-Web.png",LALIGA 2026-27 [English]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://in-mc-flive.fancode.com/mumbai/4247581_english_hls_f643d6067a38495_1ta-di_h264/1080p5.m3u8?hdntl=Expires=1787598262~_GO=Generated~acl=/mumbai/4247581_english_hls_f643d6067a38495_1ta-di_h264/*~Signature=ARceAWO0qO_zUN5DyeYl7N_0oRpezCUvWkFbU_HgTsjclxZB4qm0kDmsPQhDH3UPA6Em8NhXNodL7IvrM766ar-PqIEI
+
+#EXTINF:-1 tvg-id="event-0.2247385724236337" group-title="LIVE SPORTS | STREAMX" group-logo="https://i.postimg.cc/3xnDC1d6/live-sports.png" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/BMW-Championship-2026-old-.png",BMW Championship 2026 [English]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://in-mc-flive.fancode.com/mumbai/4248417_english_hls_523079a4ce80996_1ta-di_h264/1080p.m3u8?hdntl=Expires=1787585785~_GO=Generated~acl=/mumbai/4248417_english_hls_523079a4ce80996_1ta-di_h264/*~Signature=ARceAWP1lrim7iXD3JDtDGS41lEDs3ldR7ho7ZqSn4LlgQdqzawa9ajQ7EeM3BPUjG0tWMxXWsDRro_8i_5aYbomruUN
 
-#EXTINF:-1 tvg-id="event-0.47603298306684894" group-title="LIVE SPORTS | STREAMX" group-logo="https://i.postimg.cc/3xnDC1d6/live-sports.png" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/BMW-Championship-2026-old-.png",BMW Championship 2026 [English]
+#EXTINF:-1 tvg-id="event-0.7480098502555171" group-title="LIVE SPORTS | STREAMX" group-logo="https://i.postimg.cc/3xnDC1d6/live-sports.png" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/BMW-Championship-2026-old-.png",BMW Championship 2026 [English]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://in-mc-flive.fancode.com/mumbai/4248413_english_hls_34d823adf835301_1ta-di_h264/1080p.m3u8?hdntl=Expires=1787586305~_GO=Generated~acl=/mumbai/4248413_english_hls_34d823adf835301_1ta-di_h264/*~Signature=ARceAWP0IBrRreBDag97nYc8JpwG5kHN78BulWXf-_dU67Qo4p-95EG0ApixjQ8HUODnCCtLbXwIEt46vj-Z8IRqBcUL
 
-#EXTINF:-1 tvg-id="event-0.07560657994780073" group-title="LIVE SPORTS | STREAMX" group-logo="https://i.postimg.cc/3xnDC1d6/live-sports.png" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Cincinnati-Open-ATP-Masters-old.png",ATP Masters Cincinnati Open 2026 [English]
+#EXTINF:-1 tvg-id="event-0.23657424097496516" group-title="LIVE SPORTS | STREAMX" group-logo="https://i.postimg.cc/3xnDC1d6/live-sports.png" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Cincinnati-Open-ATP-Masters-old.png",ATP Masters Cincinnati Open 2026 [English]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://in-mc-flive.fancode.com/mumbai/4248148_english_hls_012334bd0283018_1ta-di_h264/1080p.m3u8?hdntl=Expires=1787594017~_GO=Generated~acl=/mumbai/4248148_english_hls_012334bd0283018_1ta-di_h264/*~Signature=ARceAWMniCjulQvhTGC-5ouHyMDk0cSTqAOMFOvNgXIKR6A88DHFSDIeRlRPCFGeyscyIkjgJAyugskqzJ3XKjYssP0G
 
-#EXTINF:-1 tvg-id="event-0.1659017569816691" group-title="LIVE SPORTS | STREAMX" group-logo="https://i.postimg.cc/3xnDC1d6/live-sports.png" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/MiniMatchCard108x3.png",US Women’s Senior Open 2026 [English]
+#EXTINF:-1 tvg-id="event-0.913985443830891" group-title="LIVE SPORTS | STREAMX" group-logo="https://i.postimg.cc/3xnDC1d6/live-sports.png" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/MiniMatchCard108x3.png",US Women’s Senior Open 2026 [English]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://in-mc-flive.fancode.com/mumbai/4248528_english_hls_2cba71094556931_1ta-di_h264/1080p.m3u8?hdntl=Expires=1787594018~_GO=Generated~acl=/mumbai/4248528_english_hls_2cba71094556931_1ta-di_h264/*~Signature=ARceAWPKWkVmD6W_V4n-CQTnz5fPFxzbJ4zQKAbZcdKhg8OrnCxjDSgLgm842i4AdEoYk8ePvuXQY9CkrIpjCoBKo6QI
 
-#EXTINF:-1 tvg-id="event-0.09790193982360318" group-title="LIVE SPORTS | STREAMX" group-logo="https://i.postimg.cc/3xnDC1d6/live-sports.png" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000021741/1785702497412697_LIV_Golf_Indianapolis_day4_landscape_thumb.jpg",Indianapolis - Day 4 - 23 Aug 2026 [ENG] - LIV Golf
+#EXTINF:-1 tvg-id="event-0.9038497722599376" group-title="LIVE SPORTS | STREAMX" group-logo="https://i.postimg.cc/3xnDC1d6/live-sports.png" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/ATP-250---Winston-Salem-Open-2026-old.png",ATP 250 - Winston-Salem Open 2026 [English]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://sonydaimenew.akamaized.net/hls/live/2022320/LIVGolf_2308/ENG/std_lrh-800300010.m3u8?hdnea=exp=1787553285~acl=/*~id=56142406179633430427679806455003~hmac=b4589947c96ad6ff1ac96f846b043a6aeca1cac30e2f9bb9ab4808a7fe47eb6e
+https://in-mc-flive.fancode.com/mumbai/4248150_english_hls_7d5a0550b384254_1ta-di_h264/1080p.m3u8?hdntl=Expires=1787597655~_GO=Generated~acl=/mumbai/4248150_english_hls_7d5a0550b384254_1ta-di_h264/*~Signature=ARceAWNJAMw1MSKbcjWBSA64UifUc9zwGPw4afXFDsKHJQvLMs5V2smWF8SsoH1WlYu-jrP2M1pbpriSZiZIcwra5ncE
+
+#EXTINF:-1 tvg-id="event-0.13102226366145842" group-title="LIVE SPORTS | STREAMX" group-logo="https://i.postimg.cc/3xnDC1d6/live-sports.png" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000021741/1785702497412697_LIV_Golf_Indianapolis_day4_landscape_thumb.jpg",Indianapolis - Day 4 - 23 Aug 2026 [ENG] - LIV Golf
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://sonydaimenew.akamaized.net/hls/live/2022320/LIVGolf_2308/ENG/std_lrh-800300010.m3u8?hdnea=exp=1787555715~acl=/*~id=96873388289309242998681918754913~hmac=9546fcfb979ce3d8701c59a16ba43fcccc8786caf6ee9dbed536b02771121733
 
 #EXTINF:-1 tvg-id="SONY SAB HD.in" group-title="Sony Liv | STREAMX" group-logo="https://i.postimg.cc/WztjDJSc/Sony-Liv-(1).jpg" tvg-logo="https://www.sonypicturesnetworks.com/images/logos/SONY%20SAB%20HD_WHITE.png",Sony SAB HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
