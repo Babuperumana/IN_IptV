@@ -1,19 +1,10 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-name="Chennai Love Story" tvg-logo="https://www.5movierulz.watch/uploads/Chennai-Love-Story-Telugu-1.jpg" group-title="Telugu Movies",Chennai Love Story (2026) [Streamlare - Web Player 2]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://www.5movierulz.watch/
-https://ww7.vcdnlare.com/v/EXF9Pb4wkKVTDcA?sid=9037&t=hls|Referer=https://www.5movierulz.watch/&User-Agent=Mozilla/5.0
+#EXTINF:-1 tvg-name="Chennai Love Story" tvg-logo="https://www.5movierulz.watch/uploads/Chennai-Love-Story-Telugu-1.jpg" group-title="Telugu Movies",Chennai Love Story (2026) [HD 720p]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+#EXTVLCOPT:http-referrer=https://ww7.vcdnlare.com/
+https://ww7.vcdnlare.com/hls/EXF9Pb4wkKVTDcA/index.m3u8|Referer=https://ww7.vcdnlare.com/&User-Agent=Mozilla/5.0
 
-#EXTINF:-1 tvg-id="" tvg-name="Chennai Love Story" tvg-logo="https://www.5movierulz.watch/uploads/Chennai-Love-Story-Telugu-1.jpg" group-title="Telugu Movies",Chennai Love Story (2026) [Streamvin - Web Player 1]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://www.5movierulz.watch/
-https://streamvin.com/video/f4552671f8909587cf485ea990207f3b|Referer=https://www.5movierulz.watch/&User-Agent=Mozilla/5.0
-
-#EXTINF:-1 tvg-id="" tvg-name="Chennai Love Story" tvg-logo="https://www.5movierulz.watch/uploads/Chennai-Love-Story-Telugu-1.jpg" group-title="Telugu Movies (Torrent)",Chennai Love Story (2026) [1080p HQ - 3.2GB]
-magnet:?xt=urn:btih:f7a9e4e162377d8daaf8fb49aaf3fe2668b43ab8&dn=www.5MovieRulz.company%20-%20Chennai%20Love%20Story%20%282026%29%201080p%20Telugu%20HQ%20HDRip%20-%20x264%20-%20%28DD%2B5.1%20-%20256Kbps%20%26%20AAC%29%20-%203.2GB%20-%20ESub.mkv
-
-#EXTINF:-1 tvg-id="" tvg-name="Chennai Love Story" tvg-logo="https://www.5movierulz.watch/uploads/Chennai-Love-Story-Telugu-1.jpg" group-title="Telugu Movies (Torrent)",Chennai Love Story (2026) [720p - 1.7GB]
-magnet:?xt=urn:btih:dd58113bff405ecf0c2fa5d19a4e9ef699fd21f3&dn=www.5MovieRulz.company%20-%20Chennai%20Love%20Story%20%282026%29%20720p%20Telugu%20HQ%20HDRip%20-%20x264%20-%20%28DD%2B5.1%20-%20256Kbps%20%26%20AAC%29%20-%201.7GB%20-%20ESub.mkv
-
-#EXTINF:-1 tvg-id="" tvg-name="Chennai Love Story" tvg-logo="https://www.5movierulz.watch/uploads/Chennai-Love-Story-Telugu-1.jpg" group-title="Telugu Movies (Torrent)",Chennai Love Story (2026) [700MB]
-magnet:?xt=urn:btih:3d2986d38d89e8197f1b840fb7febf7e802b1a66&dn=www.5MovieRulz.company%20-%20Chennai%20Love%20Story%20%282026%29%20Telugu%20HQ%20HDRip%20-%20x264%20-%20AAC%20-%20700MB%20-%20ESub.mkv
+#EXTINF:-1 tvg-name="Chennai Love Story" tvg-logo="https://www.5movierulz.watch/uploads/Chennai-Love-Story-Telugu-1.jpg" group-title="Telugu Movies",Chennai Love Story (2026) [SD 480p]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+#EXTVLCOPT:http-referrer=https://ww7.vcdnlare.com/
+https://ww7.vcdnlare.com/hls/EXF9Pb4wkKVTDcA/480/index.m3u8|Referer=https://ww7.vcdnlare.com/&User-Agent=Mozilla/5.0
