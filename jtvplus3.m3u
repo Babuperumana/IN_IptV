@@ -1,5 +1,5 @@
 #EXTM3U x-tvg-url="https://avkb.short.gy/jioepg.xml.gz"
-# Generated: 20/10/2026, 18:08:43
+# Generated: 20/10/2026, 23:13:09
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=6752015acf084572a08dfe21796f8b45:ff823ddbe5625c35d3e93f0ed4520115
@@ -8597,21 +8597,18 @@ https://jiotvmblive.cdn.jio.com/bpk-tv/ETV_Telangana_MOB/WDVLive/index.mpd
 #EXTHTTP:{"cookie":"","Origin":"https://www.jiotv.com/","Referer":"https://www.jiotv.com/"}
 https://livestream.sunnxt.com/ed4c67ad957644b69361651d9101107e/ChintuTVB_IN_index.mpd
 
-#EXTINF:-1 tvg-id="ev-0.09990211640759972" group-title="LIVE SPORTS | STREAMX" group-logo="https://i.postimg.cc/3xnDC1d6/live-sports.png" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/AUS-vs-SA-test_Web-match-card.png",2026 [English]
-https://in-mc-flive.fancode.com/mumbai/4249782_english_hls_bf21f9fa2f10890_1ta-di_h264/1080p.m3u8?hdntl=Expires=1792567154~_GO=Generated~acl=/mumbai/4249782_english_hls_bf21f9fa2f10890_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_99ed45af-39c5-4e~Signature=ASgJGVDjYP99YI0mU5JSrTR10i9kAkNADFBIJkV_E4euvXjSpigjFsTGRmZZkw6JOQKiCw9SL91O-tnGlADp6R5rk1wO
+#EXTINF:-1 tvg-id="ev-0.9716876509936442" group-title="LIVE SPORTS | STREAMX" group-logo="https://i.postimg.cc/3xnDC1d6/live-sports.png" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4250477_53130_EMR_SHA_fc-web_1792412929341.jpg",2026 [English]
+https://in-mc-flive.fancode.com/mumbai/4250477_english_hls_1a72e2062b55236_1ta-di_h264/1080p.m3u8?hdntl=Expires=1792599869~_GO=Generated~acl=/mumbai/4250477_english_hls_1a72e2062b55236_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_998a522d-1053-41~Signature=ASgJGVBT9vqrI9dZPqBwT1D-QPEOf3-Rzl6duo2N3ubK0J0YQMe2-5KgijWkAVLFxwSFOwHvWGKToYxaau3srHMjYvoB
 
-#EXTINF:-1 tvg-id="ev-0.35566507125026015" group-title="LIVE SPORTS | STREAMX" group-logo="https://i.postimg.cc/3xnDC1d6/live-sports.png" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4250476_53130_AJM_EMB_fc-web_1792412929325.jpg",2026 [English]
-https://in-mc-flive.fancode.com/mumbai/4250476_english_hls_550b3930e750705_1ta-di_h264/1080p.m3u8?hdntl=Expires=1792585325~_GO=Generated~acl=/mumbai/4250476_english_hls_550b3930e750705_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_5cb17a81-bd68-44~Signature=ASgJGVDFq9IRL0IaqMG7HgdmDiYHmCHQH1RNAbfhUpwFAKZFg3eAkb_m_1pPEOrfvNP4W4ae7ssGLLRm5r0eNZVKy7wD
+#EXTINF:-1 tvg-id="ev-0.6410207018415458" group-title="LIVE SPORTS | STREAMX" group-logo="https://i.postimg.cc/3xnDC1d6/live-sports.png" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/BNP-Paribas-Fortis-European-Open_fc-web.jpg",ATP 250 - BNP Paribas Fortis European Open [English]
+https://in-mc-flive.fancode.com/mumbai/4249622_english_hls_8342648ba261_1ta-di_h264/1080p.m3u8?hdntl=Expires=1792603508~_GO=Generated~acl=/mumbai/4249622_english_hls_8342648ba261_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_a11c782b-de95-4d~Signature=ASgJGVBDsd6SytcQAXZRN_G9SF2ONYhDtGaTeqWCOyLt67WWMGrfuJZVuT5KUFmGflwiiiWZb5SwTMuKsYh-H51XLNsF
 
-#EXTINF:-1 tvg-id="ev-0.5111203839086379" group-title="LIVE SPORTS | STREAMX" group-logo="https://i.postimg.cc/3xnDC1d6/live-sports.png" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Tennis_FC-Web_1792479545067.png",ATP 250 - Almaty Open 2026 [English]
-https://in-mc-flive.fancode.com/mumbai/4249608_english_hls_a2345ca73095655_1ta-di_h264/1080p.m3u8?hdntl=Expires=1792563514~_GO=Generated~acl=/mumbai/4249608_english_hls_a2345ca73095655_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_bf9d79af-590d-4c~Signature=ASgJGVBbzn1rjyL8LkA3Kr1Oih3ShXxhm2c1o8pI7r40xfxfxtdMbjyBuyi5stZs_OURItI1G-BY-ZWNzTQfp5kjHnAH
-
-#EXTINF:-1 tvg-id="ev-0.2692997731769101" group-title="LIVE SPORTS | STREAMX" group-logo="https://i.postimg.cc/3xnDC1d6/live-sports.png" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/BNP-Paribas-Fortis-European-Open_fc-web.jpg",ATP 250 - BNP Paribas Fortis European Open [English]
-https://in-mc-flive.fancode.com/mumbai/4249622_english_hls_8342648ba261_1ta-di_h264/1080p.m3u8?hdntl=Expires=1792574428~_GO=Generated~acl=/mumbai/4249622_english_hls_8342648ba261_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_c8f5f7e5-79c6-46~Signature=ASgJGVCoUgftU0-iZRBz1d4i3AazyMuXZDbJkM-IWHQjZK_1ApugYFGNxOYqI2qB_bZf4WuXvxksnjH66N1u4qQSXIYI
-
-#EXTINF:-1 tvg-id="ev-0.2870689583524856" group-title="LIVE SPORTS | STREAMX" group-logo="https://i.postimg.cc/3xnDC1d6/live-sports.png" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Grand-Prix-Auvergne-Rhone-Alpes_fc-web.jpg",ATP 250 - Grand Prix Auvergne-Rhone-Alpes 2026 [English]
+#EXTINF:-1 tvg-id="ev-0.8471098605912047" group-title="LIVE SPORTS | STREAMX" group-logo="https://i.postimg.cc/3xnDC1d6/live-sports.png" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Grand-Prix-Auvergne-Rhone-Alpes_fc-web.jpg",ATP 250 - Grand Prix Auvergne-Rhone-Alpes 2026 [English]
 https://in-mc-flive.fancode.com/mumbai/4249615_english_hls_d47039c54e87886_1ta-di_h264/1080p.m3u8?hdntl=Expires=1792583507~_GO=Generated~acl=/mumbai/4249615_english_hls_d47039c54e87886_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_52a95316-1d66-46~Signature=ASgJGVD6EWoD6QsS1xL90eoaro9WJ7v63oefeqqxs6VGTgt1TZslVOtDUOmrNmOH8qHhISQFbuxkCuMDXKXZRhqXJ2gH
 
-#EXTINF:-1 tvg-id="ev-0.3446518620295077" group-title="LIVE SPORTS | STREAMX" group-logo="https://i.postimg.cc/3xnDC1d6/live-sports.png" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025833/1791097802834995_UYL26_PSG_vs_Barcelona_live_landscape_thumb.jpg",PSG vs Barcelona - 20 Oct 2026 [ENG] - UEFA Youth League 2026-27
-https://sonydaimenew.akamaized.net/hls/live/2120301/Footlive2010/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792542561~acl=/*~id=93431792692230212220246841966279~hmac=920cc09380648a0477369b483bff8f7ea489889e280dce36230575238bba172b
+#EXTINF:-1 tvg-id="ev-0.6230173574925155" group-title="LIVE SPORTS | STREAMX" group-logo="https://i.postimg.cc/3xnDC1d6/live-sports.png" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025901/179125022899319_UCL2627_MD3_Sabah_vs_Dortmund_landscape_thumb.jpg",Sabah vs Dortmund - 20 Oct 2026 [ENG] - UEFA Champions League 2026-27
+https://sonydaimenew.akamaized.net/hls/live/std_lrh-800300010.m3u8?hdnea=exp=1792560763~acl=/*~id=40016115771422586018249895777543~hmac=c37f5d7b1794922d651f2e78d6546ec3e42bd03defd8ee7f5e7c96b605b9c08c
+
+#EXTINF:-1 tvg-id="ev-0.2186248952629386" group-title="LIVE SPORTS | STREAMX" group-logo="https://i.postimg.cc/3xnDC1d6/live-sports.png" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025901/179124692857319_UCL2627_MD3_Fenerbahce_vs_Slavia_Praha_landscape_thumb.jpg",Fenerbahçe vs Slavia Praha - MD 3 - 20 Oct 2026 [ENG] - UEFA Champions League 2026-27
+https://sonydaimenew.akamaized.net/hls/live/2120303/Footlive2010/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792560763~acl=/*~id=40016115771422586018249895777543~hmac=c37f5d7b1794922d651f2e78d6546ec3e42bd03defd8ee7f5e7c96b605b9c08c
 
