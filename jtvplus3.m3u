@@ -1,5 +1,5 @@
 #EXTM3U x-tvg-url="https://avkb.short.gy/jioepg.xml.gz"
-# Generated: 24/10/2026, 04:19:57
+# Generated: 24/10/2026, 06:49:29
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=6752015acf084572a08dfe21796f8b45:ff823ddbe5625c35d3e93f0ed4520115
@@ -8599,15 +8599,12 @@ https://jiotvmblive.cdn.jio.com/bpk-tv/ETV_Telangana_MOB/WDVLive/index.mpd
 #EXTHTTP:{"cookie":"","Origin":"https://www.jiotv.com/","Referer":"https://www.jiotv.com/"}
 https://livestream.sunnxt.com/ed4c67ad957644b69361651d9101107e/ChintuTVB_IN_index.mpd
 
-#EXTINF:-1 tvg-id="ev-0.9854828384961666" group-title="LIVE SPORTS | STREAMX" group-logo="https://i.postimg.cc/3xnDC1d6/live-sports.png" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Grand-Prix-Auvergne-Rhone-Alpes_fc-web.jpg",ATP 250 - Grand Prix Auvergne-Rhone-Alpes 2026 [English]
-https://in-mc-flive.fancode.com/mumbai/4249618_english_hls_bd306a0e4442012_1ta-di_h264/1080p.m3u8?hdntl=Expires=1792871741~_GO=Generated~acl=/mumbai/4249618_english_hls_bd306a0e4442012_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_55ef39e1-aa5c-4a~Signature=ASgJGVD6PRf5XlLw9pghLVtybYq8qHzUS9zPPtvoO6VJbWP2usliMlgn-xL9HvDY6vx5VSYQcUkZ6p5jiu_mTMQVugsC
+#EXTINF:-1 tvg-id="ev-0.6709728360278658" group-title="LIVE SPORTS | STREAMX" group-logo="https://i.postimg.cc/3xnDC1d6/live-sports.png" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4249285_53072_TAS_VCT_FC-Web.jpg",2026/27 [English]
+https://in-mc-flive.fancode.com/mumbai/4249285_english_hls_c101cf832389375_1ta-di_h264/1080p.m3u8?hdntl=Expires=1792883981~_GO=Generated~acl=/mumbai/4249285_english_hls_c101cf832389375_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_ce656463-67d4-43~Signature=ASgJGVB-EBFjWK52d9-_V3iMM6V9qCJSbLvqfXMFqkncayydc7BaSYxl1O3JtbqrVgSIoQyeYgS5WBRvx16AHTRwuhoP
 
-#EXTINF:-1 tvg-id="ev-0.48310526492627415" group-title="LIVE SPORTS | STREAMX" group-logo="https://i.postimg.cc/3xnDC1d6/live-sports.png" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Grand-Prix-of-Australiaold-match-card.png",GRAND PRIX OF AUSTRALIA 2026 [English]
+#EXTINF:-1 tvg-id="ev-0.5833313621964076" group-title="LIVE SPORTS | STREAMX" group-logo="https://i.postimg.cc/3xnDC1d6/live-sports.png" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Grand-Prix-of-Australiaold-match-card.png",GRAND PRIX OF AUSTRALIA 2026 [English]
 https://in-mc-flive.fancode.com/mumbai/139979_english_hls_c7aa6f758469211_1ta-di_h264/1080p5.m3u8?hdntl=Expires=1792877285~_GO=Generated~acl=/mumbai/139979_english_hls_c7aa6f758469211_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_12d37240-e5db-44~Signature=ASgJGVBpn-wZG24vBzclKTkD1pIOvVfhU6iETAP8BrDeJuX_3svcgH6vEHI6u7VrvWcruVU6w-3FAUnKUZ5MowiC2p8A
 
-#EXTINF:-1 tvg-id="ev-0.24399066303688965" group-title="LIVE SPORTS | STREAMX" group-logo="https://i.postimg.cc/3xnDC1d6/live-sports.png" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/F2_Canada_web_1792770153782.jpg",F1 ACADEMY AUSTIN 2026 [English]
-https://in-mc-flive.fancode.com/mumbai/4250507_english_hls_44cd9f0fb737145_1ta-di_h264/1080p5.m3u8?hdntl=Expires=1792881558~_GO=Generated~acl=/mumbai/4250507_english_hls_44cd9f0fb737145_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_c4c8a960-fd18-46~Signature=ASgJGVA6WQjmx8XBcdvxPlgrvtfn0-pXfynIymnsfpD3sx5MtubjCMlLk1IDK50NtetW9cc2YVmuP9HsOl3r-Sy187kF
-
-#EXTINF:-1 tvg-id="ev-0.581944967822226" group-title="LIVE SPORTS | STREAMX" group-logo="https://i.postimg.cc/3xnDC1d6/live-sports.png" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027138/1792752132049819_NZ_vs_IND_A_1st_test_day1_live_landscape_thumb.jpg",1st Unofficial Test - Day 1 - 24 Oct 2026 [ENG] - India A Tour of New Zealand
-https://sonydaime.akamaized.net/hls/live/2120300/criclive2310/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792838680~acl=/*~id=12746480149683742616726443942123~hmac=ceb20e8a60e20b23b3633b0a8a2708d1c9f6407041400e26a59a82490223d524
+#EXTINF:-1 tvg-id="ev-0.06975324920248349" group-title="LIVE SPORTS | STREAMX" group-logo="https://i.postimg.cc/3xnDC1d6/live-sports.png" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027138/1792752132049819_NZ_vs_IND_A_1st_test_day1_live_landscape_thumb.jpg",1st Unofficial Test - Day 1 - 24 Oct 2026 [ENG] - India A Tour of New Zealand
+https://sonydaime.akamaized.net/hls/live/2120300/criclive2310/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792847166~acl=/*~id=19603893684241731960043500549217~hmac=4fdc1dc9973e5017cc385899f24a396690275977fd6455ac8201c6a8837771b7
 
