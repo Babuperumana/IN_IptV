@@ -1,5 +1,5 @@
 #EXTM3U x-tvg-url="https://avkb.short.gy/jioepg.xml.gz"
-# Generated: 26/10/2026, 12:48:58
+# Generated: 26/10/2026, 20:15:31
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=6752015acf084572a08dfe21796f8b45:ff823ddbe5625c35d3e93f0ed4520115
@@ -3613,10 +3613,10 @@ https://jiotvpllive.cdn.jio.com/bpk-tv/Star_Movies_BTS/WDVLive/index.mpd
 
 #EXTINF:-1 tvg-id="1129" group-title="JioTV+ | Telugu" group-logo="https://i.postimg.cc/52qG6sKt/STREAMXi.png" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Maa_Music.png",Star Maa Music
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=d66e0a9cac2853119c87b37d5dd7d25d:4449938d983c27cc7e154ba51260aa24
+#KODIPROP:inputstream.adaptive.license_key=https://sonyliv.yashnemade12250.workers.dev/key/1129
 #EXTVLCOPT:http-user-agent=TiviMate/5.1.0
 #EXTHTTP:{"cookie":"","Origin":"https://www.jiotv.com/","Referer":"https://www.jiotv.com/"}
-https://jiotvmblive.cdn.jio.com/bpk-tv/Maa_Music_MOB/WDVLive/index.mpd
+https://jiotvpllive.cdn.jio.com/bpk-tv/Maa_Music_BTS/WDVLive/index.mpd
 
 #EXTINF:-1 tvg-id="001" group-title="JioTV+ | Entertainment" group-logo="https://i.postimg.cc/52qG6sKt/STREAMXi.png" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/36/Dangalv2.png",Dangal
 #EXTVLCOPT:http-user-agent=TiviMate/5.1.0
@@ -8599,6 +8599,36 @@ https://jiotvmblive.cdn.jio.com/bpk-tv/ETV_Telangana_MOB/WDVLive/index.mpd
 #EXTHTTP:{"cookie":"","Origin":"https://www.jiotv.com/","Referer":"https://www.jiotv.com/"}
 https://livestream.sunnxt.com/ed4c67ad957644b69361651d9101107e/ChintuTVB_IN_index.mpd
 
-#EXTINF:-1 tvg-id="ev-0.6689847573590316" group-title="LIVE SPORTS | STREAMX" group-logo="https://i.postimg.cc/3xnDC1d6/live-sports.png" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Cricket_FC-Web_1792997982624.png",Delhi Dynamites vs Haryana Hustlers (Northern Artist Champions League 2026)
-https://in-mc-flive.fancode.com/mumbai/4250529_english_hls_e5433aa61a5575_1ta-di_h264/1080p.m3u8?hdntl=Expires=1793074641~_GO=Generated~acl=/mumbai/4250529_english_hls_e5433aa61a5575_1ta-di_h264/*~SessionID=122002764__fad98e44-a2ba-42~Signature=ASgJGVDZ0cJsKCco5Xw0Eje8sDYczG2X7TNSjeeui88vuoTt_HLbhZ9K1f8gwA1axhzFd97VxnILxvQh144eR41zCAYL
+#EXTINF:-1 tvg-id="ev-0.01351153714839004" group-title="LIVE SPORTS | STREAMX" group-logo="https://i.postimg.cc/3xnDC1d6/live-sports.png" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4250488_53130_ABD_EMR_fc-web_1792412929301.jpg",2026 [English]
+https://in-mc-flive.fancode.com/mumbai/4250488_english_hls_60fccd51d45275_1ta-di_h264/1080p.m3u8?hdntl=Expires=1793108271~_GO=Generated~acl=/mumbai/4250488_english_hls_60fccd51d45275_1ta-di_h264/*~SessionID=fc-app_sportsguruios_watcho_5982410b-e2e2-4c~Signature=ATFKiJseys579whmmDbRFjUu3RsfTWBJmP-0Gwd4J_duJZcYcnwLvUpZDZzwyFB3QjI-LmR6lWj8TX8nQKOmY1VhROUO
+
+#EXTINF:-1 tvg-id="ev-0.8672047373170654" group-title="LIVE SPORTS | STREAMX" group-logo="https://i.postimg.cc/3xnDC1d6/live-sports.png" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4250531_53137_HHL_PBW_FC-Web_1793010710973.png",Northern Artist Champions League 2026 [English]
+https://in-mc-flive.fancode.com/mumbai/4250531_english_hls_92c2ef723b55655_1ta-di_h264/1080p.m3u8?hdntl=Expires=1793108273~_GO=Generated~acl=/mumbai/4250531_english_hls_92c2ef723b55655_1ta-di_h264/*~SessionID=fc-app_sportsguruios_watcho_f87d95bd-229a-40~Signature=ATFKiJtI9ZBh0d4d8vCu3Pi_9zDfQpF43P3d9XtdlSZVsDEv8lYtbFI-3rkjvjrIPaY6ydb60OBu6Wo9MkVX2Ia4QZ8C
+
+#EXTINF:-1 tvg-id="ev-0.8651375285440376" group-title="LIVE SPORTS | STREAMX" group-logo="https://i.postimg.cc/3xnDC1d6/live-sports.png" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4248712_53053_NB_ITT_fc-web_1792669837430.jpg",AFC Champions League Elite 2026-27 [English]
+https://in-mc-flive.fancode.com/mumbai/4248712_english_hls_45aaafb96f87038_1ta-di_h264/1080p.m3u8?hdntl=Expires=1793108275~_GO=Generated~acl=/mumbai/4248712_english_hls_45aaafb96f87038_1ta-di_h264/*~SessionID=fc-app_sportsguruios_watcho_7a6ff66f-b4d4-43~Signature=ATFKiJtxjhk6ngPuHZ-M2-yR6qzJITIbZmAVGSAcn6jQrU05cdNBIjogF6tsAyxyoKb0MoH2UYIp2Y_YKNRIsFTm2hoP
+
+#EXTINF:-1 tvg-id="ev-0.15457529378969803" group-title="LIVE SPORTS | STREAMX" group-logo="https://i.postimg.cc/3xnDC1d6/live-sports.png" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Tennis_FC-We.png",ATP 500 - Swiss Indoors Basel 2026 [English]
+https://in-mc-flive.fancode.com/mumbai/4249642_english_hls_e0c44eb71522883_1ta-di_h264/1080p.m3u8?hdntl=Expires=1793108276~_GO=Generated~acl=/mumbai/4249642_english_hls_e0c44eb71522883_1ta-di_h264/*~SessionID=fc-app_sportsguruios_watcho_79c952e9-8f2a-44~Signature=ATFKiJuWohINcD3qns-zoNI8817quh5t_kJ9v6c2LexICa4sRIAvHUFivJCPfq1Vn75VFIO_Bd0kNJhdO5Y0vu5kzH0K
+
+#EXTINF:-1 tvg-id="ev-0.8863889408849075" group-title="LIVE SPORTS | STREAMX" group-logo="https://i.postimg.cc/3xnDC1d6/live-sports.png" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Erste-Bank-Open_Web-match-card.png",ATP 500 - Erste Bank Open 2026 [English]
+https://in-mc-flive.fancode.com/mumbai/4249628_english_hls_5f77957eed29537_1ta-di_h264/1080p.m3u8?hdntl=Expires=1793108277~_GO=Generated~acl=/mumbai/4249628_english_hls_5f77957eed29537_1ta-di_h264/*~SessionID=fc-app_sportsguruios_watcho_2b824fc5-3c38-44~Signature=ATFKiJvOXFUy4AFSOySlAasUP2ydUu-q0MPjc0WBklQl2e7YXkF1mHeVdvk6Ytw9FtQtRAC1lUHMGrsJHe8njC4ckI4M
+
+#EXTINF:-1 tvg-id="ev-0.936016216957825" group-title="LIVE SPORTS | STREAMX" group-logo="https://i.postimg.cc/3xnDC1d6/live-sports.png" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Tennis_FC-We.png",ATP 500 - Swiss Indoors Basel 2026 [English]
+https://in-mc-flive.fancode.com/mumbai/4249649_english_hls_8df251928c93931_1ta-di_h264/1080p.m3u8?hdntl=Expires=1793108278~_GO=Generated~acl=/mumbai/4249649_english_hls_8df251928c93931_1ta-di_h264/*~SessionID=fc-app_sportsguruios_watcho_da2d42fb-0020-40~Signature=ATFKiJuFeihbCW1ixxnwdLUWm2HBMMCxiMzyH-hd7M5ZXLVPaXoynDGv9DN8ogME3NqoOIZ1t49Xukl_OSpBwrTzq-QM
+
+#EXTINF:-1 tvg-id="ev-0.4703230444469654" group-title="LIVE SPORTS | STREAMX" group-logo="https://i.postimg.cc/3xnDC1d6/live-sports.png" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026665/1792352683390172_ISL26_MohunBaganSG_vs_ChennaiyinFC_live_landscape_thumb.jpg",Mohun Bagan Super Giant vs Chennaiyin FC - 26 Oct 2026 [ENG] - MG Indian Super League 2026-27
+https://sonydaime.akamaized.net/hls/live/2120303/Footlive2610/ENG/std_lrh-800300010.m3u8?hdnea=exp=1793068552~acl=/*~id=16983394199021860060804918819549~hmac=fb0b9bacf1484927ebb2462c1aa512e2c964bed063b83f281c0def34ce695871
+
+#EXTINF:-1 tvg-id="ev-0.15951570612556454" group-title="LIVE SPORTS | STREAMX" group-logo="https://i.postimg.cc/3xnDC1d6/live-sports.png" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026665/1792352683390172_ISL26_MohunBaganSG_vs_ChennaiyinFC_live_landscape_thumb.jpg",Mohun Bagan Super Giant vs Chennaiyin FC - 26 Oct 2026 [HIN] - MG Indian Super League 2026-27
+https://sonydaime.akamaized.net/hls/live/2120304/Footlive2610/HIN/std_lrh-800300010.m3u8?hdnea=exp=1793068552~acl=/*~id=16983394199021860060804918819549~hmac=fb0b9bacf1484927ebb2462c1aa512e2c964bed063b83f281c0def34ce695871
+
+#EXTINF:-1 tvg-id="ev-0.3424157924435075" group-title="LIVE SPORTS | STREAMX" group-logo="https://i.postimg.cc/3xnDC1d6/live-sports.png" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026665/1792352683390172_ISL26_MohunBaganSG_vs_ChennaiyinFC_live_landscape_thumb.jpg",Mohun Bagan Super Giant vs Chennaiyin FC - 26 Oct 2026 [BEN] - MG Indian Super League 2026-27
+https://sonydaime.akamaized.net/hls/live/2120302/Footlive2610/BEN/std_lrh-800300010.m3u8?hdnea=exp=1793068552~acl=/*~id=16983394199021860060804918819549~hmac=fb0b9bacf1484927ebb2462c1aa512e2c964bed063b83f281c0def34ce695871
+
+#EXTINF:-1 tvg-id="ev-0.39580573500819005" group-title="LIVE SPORTS | STREAMX" group-logo="https://i.postimg.cc/3xnDC1d6/live-sports.png" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026665/1792352683390172_ISL26_MohunBaganSG_vs_ChennaiyinFC_live_landscape_thumb.jpg",Mohun Bagan Super Giant vs Chennaiyin FC - 26 Oct 2026 [TAM] - MG Indian Super League 2026-27
+https://sonydaime.akamaized.net/hls/live/2120300/Footlive2610/TAM/std_lrh-800300010.m3u8?hdnea=exp=1793068552~acl=/*~id=16983394199021860060804918819549~hmac=fb0b9bacf1484927ebb2462c1aa512e2c964bed063b83f281c0def34ce695871
+
+#EXTINF:-1 tvg-id="ev-0.28155197860783954" group-title="LIVE SPORTS | STREAMX" group-logo="https://i.postimg.cc/3xnDC1d6/live-sports.png" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026792/1792495920463308_UP_Dhurandhar_vs_Haryana_Lions_landscape_thumb.jpg",UP Dhurandhar vs Haryana Lions - 26 Oct 2026 [HIN] - Salute Tiranga Cricket League (STCL) 2026
+https://sonydaime.akamaized.net/hls/live/2120301/criclive2610/HIN/std_lrh-800300010.m3u8?hdnea=exp=1793068552~acl=/*~id=16983394199021860060804918819549~hmac=fb0b9bacf1484927ebb2462c1aa512e2c964bed063b83f281c0def34ce695871
 
