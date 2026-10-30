@@ -1,5 +1,5 @@
 #EXTM3U x-tvg-url="https://avkb.short.gy/jioepg.xml.gz"
-# Generated: 30/10/2026, 07:49:39
+# Generated: 30/10/2026, 14:56:22
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=6752015acf084572a08dfe21796f8b45:ff823ddbe5625c35d3e93f0ed4520115
@@ -8599,15 +8599,39 @@ https://jiotvmblive.cdn.jio.com/bpk-tv/ETV_Telangana_MOB/WDVLive/index.mpd
 #EXTHTTP:{"cookie":"","Origin":"https://www.jiotv.com/","Referer":"https://www.jiotv.com/"}
 https://livestream.sunnxt.com/ed4c67ad957644b69361651d9101107e/ChintuTVB_IN_index.mpd
 
-#EXTINF:-1 tvg-id="ev-0.7846879790993636" group-title="LIVE SPORTS | STREAMX" group-logo="https://i.postimg.cc/3xnDC1d6/live-sports.png" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4249668_53087_SAU_WAU_FC-WEB.jpg",2026/27 [English]
-https://in-mc-flive.fancode.com/mumbai/4249668_english_hls_a2c3979ec983696_1ta-di_h264/1080p.m3u8?hdntl=Expires=1793404590~_GO=Generated~acl=/mumbai/4249668_english_hls_a2c3979ec983696_1ta-di_h264/*~SessionID=fc-app_sportsguruand_92b_watcho_e329347a-c11b-4b~Signature=ATFKiJsNotphON-xNhbtaDkcKvikryZa4v6tQ6BhY40OO_dcpO1kv-u-it4y1ylmem2ng5kB3r6MrGU5S_KK9YI8eREN
+#EXTINF:-1 tvg-id="ev-0.8752410279175822" group-title="LIVE SPORTS | STREAMX" group-logo="https://i.postimg.cc/3xnDC1d6/live-sports.png" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/AUS-vs-SA-test_Web-match-card.png",2026 [English]
+https://in-mc-flive.fancode.com/mumbai/4249783_english_hls_97c5a4780073832_1ta-di_h264/1080p.m3u8?hdntl=Expires=1793433803~_GO=Generated~acl=/mumbai/4249783_english_hls_97c5a4780073832_1ta-di_h264/*~SessionID=fc-app_sportsguruand_ba1_watcho_188c2002-784f-4b~Signature=ATFKiJuJww0HwCWt7AnNcoq4_pfAURTjQ75SeRJpD16M-fHFrIfHM5bsLL6lfVgejfReKRknnmrL_Yq8bepj7xHLNyoE
 
-#EXTINF:-1 tvg-id="ev-0.718241112110337" group-title="LIVE SPORTS | STREAMX" group-logo="https://i.postimg.cc/3xnDC1d6/live-sports.png" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4249669_53087_TAS_NSW_FC-WEB.jpg",2026/27 [English]
-https://in-mc-flive.fancode.com/mumbai/4249669_english_hls_0ad52e993394154_1ta-di_h264/1080p.m3u8?hdntl=Expires=1793402771~_GO=Generated~acl=/mumbai/4249669_english_hls_0ad52e993394154_1ta-di_h264/*~SessionID=fc-app_sportsguruand_370_watcho_95711197-b5bf-43~Signature=ATFKiJuVjOilCtpiPXf7JT1g6r9Kp0hL_ZwaL4OEQymvmrmzwm-jVJ74W4H0Y57XT1Qvd1ThNAHtR7Eu-5ypW53MhIUM
+#EXTINF:-1 tvg-id="ev-0.6137575057334759" group-title="LIVE SPORTS | STREAMX" group-logo="https://i.postimg.cc/3xnDC1d6/live-sports.png" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/West-Indies-tour-of-Bangladesh-web-.jpg",2026 [English]
+https://in-mc-flive.fancode.com/mumbai/4250526_english_hls_d3c070eb3081877_1ta-di_h264/1080p.m3u8?hdntl=Expires=1793416699~_GO=Generated~acl=/mumbai/4250526_english_hls_d3c070eb3081877_1ta-di_h264/*~SessionID=fc-app_sportsguruand_957_watcho_2402325d-b2ae-48~Signature=ATFKiJu8gT3mmfvtCiuMB95UVYEWSbXyhIsmndhybgbSqIGJ4Um76jjuSm3Ap-WaKU6BNuD7SBVGpb4f_-Qevk8b4CsL
 
-#EXTINF:-1 tvg-id="ev-0.7769009266475256" group-title="LIVE SPORTS | STREAMX" group-logo="https://i.postimg.cc/3xnDC1d6/live-sports.png" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4250308_53120_BAN_SCO_fc-web.jpg",2026 [English]
-https://in-mc-flive.fancode.com/mumbai/4250308_english_hls_09b3ad083083744_1ta-di_h264/1080p.m3u8?hdntl=Expires=1793410038~_GO=Generated~acl=/mumbai/4250308_english_hls_09b3ad083083744_1ta-di_h264/*~SessionID=fc-app_sportsguruand_07f_watcho_459e94ee-8db0-4e~Signature=ATFKiJv_B7LXpMgSbn5Ccho4eT0b9KAJw1bcC-3m8UE6SVkeNY7f8i4oZAp8bCF0sAelexPPnyHc-ZPyKpksHFnvaWYI
+#EXTINF:-1 tvg-id="ev-0.13104538880318417" group-title="LIVE SPORTS | STREAMX" group-logo="https://i.postimg.cc/3xnDC1d6/live-sports.png" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Cricket_FC-We.png",ICC CWC Challenge League A 2026 [English]
+https://in-mc-flive.fancode.com/mumbai/4250347_english_hls_a02151a8c255908_1ta-di_h264/1080p.m3u8?hdntl=Expires=1793428282~_GO=Generated~acl=/mumbai/4250347_english_hls_a02151a8c255908_1ta-di_h264/*~SessionID=fc-app_sportsguruand_134_watcho_cab4508f-b2f0-45~Signature=ATFKiJsyQGGeaG0dEw6CjR_TWkXoxVwMxYlD4N3s1-zWfm96rC6pxSZp4GcDLzTDL9ymtc2YpPEvD5GcmOBwMX4w-wAC
 
-#EXTINF:-1 tvg-id="ev-0.9392181014442424" group-title="LIVE SPORTS | STREAMX" group-logo="https://i.postimg.cc/3xnDC1d6/live-sports.png" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Petronas-Grand-Prix-of-Malaysia_fc-web.jpg",PETRONAS GRAND PRIX OF MALAYSIA 2026 [English]
-https://in-mc-flive.fancode.com/mumbai/139981_english_hls_dc18e2235392788_1ta-di_h264/1080p5.m3u8?hdntl=Expires=1793407617~_GO=Generated~acl=/mumbai/139981_english_hls_dc18e2235392788_1ta-di_h264/*~SessionID=fc-app_sportsguruand_915_watcho_8cb7816c-8d49-44~Signature=ATFKiJtCpzPKzmpUPNSrjJzQ_BP3GkYM1Abusiarfl41use6mahrGGChsTCyUdao2PANJVTNdJGSmX6p6yfnGhBGjYEN
+#EXTINF:-1 tvg-id="ev-0.6404283684848359" group-title="LIVE SPORTS | STREAMX" group-logo="https://i.postimg.cc/3xnDC1d6/live-sports.png" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Cricket_FC-We.png",ICC CWC Challenge League A 2026 [English]
+https://in-mc-flive.fancode.com/mumbai/4250348_english_hls_0c83d2778c23109_1ta-di_h264/1080p.m3u8?hdntl=Expires=1793428283~_GO=Generated~acl=/mumbai/4250348_english_hls_0c83d2778c23109_1ta-di_h264/*~SessionID=fc-app_sportsguruand_921_watcho_19908a63-487b-4b~Signature=ATFKiJuaNv-5Hhd6zeisSqKG0aBEKKemcBbfLuNJLFY7gUfUIacflvUEbihQ1IjmUSjU6A51liHjcEcy_7DMlwxw7u0P
+
+#EXTINF:-1 tvg-id="ev-0.3001259082399398" group-title="LIVE SPORTS | STREAMX" group-logo="https://i.postimg.cc/3xnDC1d6/live-sports.png" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Namibia-vs-Ireland_fc-web.jpg",2026 [English]
+https://in-mc-flive.fancode.com/mumbai/4250334_english_hls_dc1520bda59332_1ta-di_h264/1080p.m3u8?hdntl=Expires=1793430728~_GO=Generated~acl=/mumbai/4250334_english_hls_dc1520bda59332_1ta-di_h264/*~SessionID=fc-app_sportsguruand_4b7_watcho_97e52dc3-f227-43~Signature=ATFKiJuVCqdseAR9_eqMN2QmDauSP2bpMs0SP9tDTOnzgm9WHxZbA08fU92ewXIr0jbFZ1mJuS5UL8T39ne9dyLgeUMG
+
+#EXTINF:-1 tvg-id="ev-0.2577240154725142" group-title="LIVE SPORTS | STREAMX" group-logo="https://i.postimg.cc/3xnDC1d6/live-sports.png" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4250315_53120_ENG_AUS_fc-web.jpg",2026 [English]
+https://in-mc-flive.fancode.com/mumbai/4250315_english_hls_d543b9b85f45242_1ta-di_h264/1080p.m3u8?hdntl=Expires=1793433183~_GO=Generated~acl=/mumbai/4250315_english_hls_d543b9b85f45242_1ta-di_h264/*~SessionID=fc-app_sportsguruand_1b1_watcho_fef38096-fc70-4f~Signature=ATFKiJv86dH6e6CfmpesAgn2Lbis8hE14enxe13cOU_0i6IoJAMRxhLMV2mCkVs2FQRDHuBR-lWTGEPeNYVO4B1vggYP
+
+#EXTINF:-1 tvg-id="ev-0.8619939558177535" group-title="LIVE SPORTS | STREAMX" group-logo="https://i.postimg.cc/3xnDC1d6/live-sports.png" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4250389_53125_BH-W_SS-W_fc-web_1793256237800.jpg",2026 [English]
+https://in-mc-flive.fancode.com/mumbai/4250389_english_hls_4f2248e81653597_1ta-di_h264/1080p.m3u8?hdntl=Expires=1793433802~_GO=Generated~acl=/mumbai/4250389_english_hls_4f2248e81653597_1ta-di_h264/*~SessionID=fc-app_sportsguruand_3e3_watcho_c5555e07-53da-4a~Signature=ATFKiJuMBNsWj4sjXMy9YDfAHJR37BfkXOdiYjSwUwUqFhf48hRVEIz5YvNgUV9bepbJL3fmY3w4bE3z9KiYuULuctoI
+
+#EXTINF:-1 tvg-id="ev-0.3581277053786498" group-title="LIVE SPORTS | STREAMX" group-logo="https://i.postimg.cc/3xnDC1d6/live-sports.png" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4249846_53101_BRB_AFC_fc-Web_1792223292139.jpg",A-League 2026-27 [English]
+https://in-mc-flive.fancode.com/mumbai/4249846_english_hls_f261f7c34b60827_1ta-di_h264/1080p.m3u8?hdntl=Expires=1793436854~_GO=Generated~acl=/mumbai/4249846_english_hls_f261f7c34b60827_1ta-di_h264/*~SessionID=fc-app_sportsguruand_28c_watcho_a299d071-6650-47~Signature=ATFKiJvgB9G8s1LkUgMipMdCzStwU0NqdQRtdY5gdjhTrvcxMsKSom29oVzrzkiVJLW5aTfbsePCdZ2obE1DHV-jaUkD
+
+#EXTINF:-1 tvg-id="ev-0.6644255288059643" group-title="LIVE SPORTS | STREAMX" group-logo="https://i.postimg.cc/3xnDC1d6/live-sports.png" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027568/1793115639556461_NZ_vs_IND_4th_T20i_landscape_thumb.jpg",4th T20I - 30 Oct 2026 [ENG] - India Tour of New Zealand 2026
+https://sonydaime.akamaized.net/hls/live/2119931/cricodi_3010/ENG/std_lrh-800300010.m3u8?hdnea=exp=1793395416~acl=/*~id=44003413840060490589037529823022~hmac=e63d1a5e829cd59dc3a8adb4a2b455c8e69704db1c1d5830961ebbb8fe9b5cc2
+
+#EXTINF:-1 tvg-id="ev-0.37139933834506067" group-title="LIVE SPORTS | STREAMX" group-logo="https://i.postimg.cc/3xnDC1d6/live-sports.png" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027568/1793115639556461_NZ_vs_IND_4th_T20i_landscape_thumb.jpg",4th T20I - 30 Oct 2026 [HIN] - India Tour of New Zealand 2026
+https://sonydaime.akamaized.net/hls/live/2119921/cricodi_3010/HIN/std_lrh-800300010.m3u8?hdnea=exp=1793395416~acl=/*~id=44003413840060490589037529823022~hmac=e63d1a5e829cd59dc3a8adb4a2b455c8e69704db1c1d5830961ebbb8fe9b5cc2
+
+#EXTINF:-1 tvg-id="ev-0.19884335106744577" group-title="LIVE SPORTS | STREAMX" group-logo="https://i.postimg.cc/3xnDC1d6/live-sports.png" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027568/1793115639556461_NZ_vs_IND_4th_T20i_landscape_thumb.jpg",4th T20I - 30 Oct 2026 [TAM] - India Tour of New Zealand 2026
+https://sonydaime.akamaized.net/hls/live/2119951/cricodi_3010/TAM/std_lrh-800300010.m3u8?hdnea=exp=1793395416~acl=/*~id=44003413840060490589037529823022~hmac=e63d1a5e829cd59dc3a8adb4a2b455c8e69704db1c1d5830961ebbb8fe9b5cc2
+
+#EXTINF:-1 tvg-id="ev-0.25652008098361867" group-title="LIVE SPORTS | STREAMX" group-logo="https://i.postimg.cc/3xnDC1d6/live-sports.png" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027568/1793115639556461_NZ_vs_IND_4th_T20i_landscape_thumb.jpg",4th T20I - 30 Oct 2026 [TEL] - India Tour of New Zealand 2026
+https://sonydaime.akamaized.net/hls/live/2119941/cricodi_3010/TEL/std_lrh-800300010.m3u8?hdnea=exp=1793395416~acl=/*~id=44003413840060490589037529823022~hmac=e63d1a5e829cd59dc3a8adb4a2b455c8e69704db1c1d5830961ebbb8fe9b5cc2
 
