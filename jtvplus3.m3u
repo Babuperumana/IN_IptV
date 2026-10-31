@@ -1,5 +1,85 @@
 #EXTM3U x-tvg-url="https://avkb.short.gy/jioepg.xml.gz"
-# Generated: 31/10/2026, 06:50:48
+# Generated: 31/10/2026, 13:22:41
+
+#EXTINF:-1 group-title="BIGG BOSS 24/7 | STREAMX" group-logo="https://upload.wikimedia.org/wikipedia/en/d/da/Bigg_Boss_Hindi_TV_Series_Logo.jpg" tvg-logo="https://img10.hotstar.com/image/upload/f_auto,q_90,w_1080/sources/r1/cms/prod/2305/1788708712305-h",ENG-4K Bigboss 24/7 live-HINDI
+#EXTHTTP:{"Origin":"https://www.hotstar.com","Referer":"https://www.hotstar.com/","Cookie":"hdntl=exp=1793458754~acl=%2f*~id=9dc98f22f0a19c6b3ca1023eae2a8713~data=hdntl~hmac=b8c6f890fc500ef2579dfe95686aebd3a4c40c69e1f5f6b1ca672d8d54ef4825"}
+#EXTVLCOPT:http-user-agent=Hotstar;in.startv.hotstar/25.02.24.8.11169@Premium Plugx(Android/15)
+https://live09p.hotstar.com/mp2/incagbsgallow-biggboss-hin-2026/93e0d4ee03b34575bbf8f8a55824de63/index_6.m3u8?|cookie=hdntl=exp=1793458754~acl=%2f*~id=9dc98f22f0a19c6b3ca1023eae2a8713~data=hdntl~hmac=b8c6f890fc500ef2579dfe95686aebd3a4c40c69e1f5f6b1ca672d8d54ef4825&referer=https://www.hotstar.com/&origin=https://www.hotstar.com&user-agent=Hotstar;in.startv.hotstar/25.02.24.8.11169@Premium Plugx(Android/15)
+
+#EXTINF:-1 group-title="BIGG BOSS 24/7 | STREAMX" group-logo="https://upload.wikimedia.org/wikipedia/en/d/da/Bigg_Boss_Hindi_TV_Series_Logo.jpg" tvg-logo="https://img10.hotstar.com/image/upload/f_auto,q_90,w_1080/sources/r1/cms/prod/2976/1788186702976-h",ENG-4K Bigboss 24/7 live-BANGLA
+#EXTHTTP:{"Origin":"https://www.hotstar.com","Referer":"https://www.hotstar.com/","Cookie":"hdntl=exp=1793458754~acl=%2f*~id=9dc98f22f0a19c6b3ca1023eae2a8713~data=hdntl~hmac=b8c6f890fc500ef2579dfe95686aebd3a4c40c69e1f5f6b1ca672d8d54ef4825"}
+#EXTVLCOPT:http-user-agent=Hotstar;in.startv.hotstar/25.02.24.8.11169@Premium Plugx(Android/15)
+https://live09p.hotstar.com/mp1/incagbsgallow-biggboss-ben-2026/d8b1f4b4b6ad493d845fb9669712ee6e/index_6.m3u8?|cookie=hdntl=exp=1793458754~acl=%2f*~id=9dc98f22f0a19c6b3ca1023eae2a8713~data=hdntl~hmac=b8c6f890fc500ef2579dfe95686aebd3a4c40c69e1f5f6b1ca672d8d54ef4825&referer=https://www.hotstar.com/&origin=https://www.hotstar.com&user-agent=Hotstar;in.startv.hotstar/25.02.24.8.11169@Premium Plugx(Android/15)
+
+#EXTINF:-1 group-title="BIGG BOSS 24/7 | STREAMX" group-logo="https://upload.wikimedia.org/wikipedia/en/d/da/Bigg_Boss_Hindi_TV_Series_Logo.jpg" tvg-logo="https://img10.hotstar.com/image/upload/f_auto,q_90,w_1080/sources/r1/cms/prod/5282/1788795265282-h",ENG-4K Bigboss 24/7 live-KANNADA
+#EXTHTTP:{"Origin":"https://www.hotstar.com","Referer":"https://www.hotstar.com/","Cookie":"hdntl=exp=1793458754~acl=%2f*~id=9dc98f22f0a19c6b3ca1023eae2a8713~data=hdntl~hmac=b8c6f890fc500ef2579dfe95686aebd3a4c40c69e1f5f6b1ca672d8d54ef4825"}
+#EXTVLCOPT:http-user-agent=Hotstar;in.startv.hotstar/25.02.24.8.11169@Premium Plugx(Android/15)
+https://live09p.hotstar.com/mp1/incagbsgallow-biggboss-kan-2026/511768cd9dab414aa551e9d15da2202b/index_6.m3u8?|cookie=hdntl=exp=1793458754~acl=%2f*~id=9dc98f22f0a19c6b3ca1023eae2a8713~data=hdntl~hmac=b8c6f890fc500ef2579dfe95686aebd3a4c40c69e1f5f6b1ca672d8d54ef4825&referer=https://www.hotstar.com/&origin=https://www.hotstar.com&user-agent=Hotstar;in.startv.hotstar/25.02.24.8.11169@Premium Plugx(Android/15)
+
+#EXTINF:-1 group-title="BIGG BOSS 24/7 | STREAMX" group-logo="https://upload.wikimedia.org/wikipedia/en/d/da/Bigg_Boss_Hindi_TV_Series_Logo.jpg" tvg-logo="https://img10.hotstar.com/image/upload/f_auto,q_90,w_1080/sources/r1/cms/prod/6575/1788707966575-h",ENG-4K Bigboss 24/7 live-MALAYALAM
+#EXTHTTP:{"Origin":"https://www.hotstar.com","Referer":"https://www.hotstar.com/","Cookie":"hdntl=exp=1793458754~acl=%2f*~id=9dc98f22f0a19c6b3ca1023eae2a8713~data=hdntl~hmac=b8c6f890fc500ef2579dfe95686aebd3a4c40c69e1f5f6b1ca672d8d54ef4825"}
+#EXTVLCOPT:http-user-agent=Hotstar;in.startv.hotstar/25.02.24.8.11169@Premium Plugx(Android/15)
+https://live09p.hotstar.com/mp2/incagbsgallow-biggboss-mal-2026/28fdd2300bf04a60ac3c3318ff009886/index_6.m3u8?|cookie=hdntl=exp=1793458754~acl=%2f*~id=9dc98f22f0a19c6b3ca1023eae2a8713~data=hdntl~hmac=b8c6f890fc500ef2579dfe95686aebd3a4c40c69e1f5f6b1ca672d8d54ef4825&referer=https://www.hotstar.com/&origin=https://www.hotstar.com&user-agent=Hotstar;in.startv.hotstar/25.02.24.8.11169@Premium Plugx(Android/15)
+
+#EXTINF:-1 group-title="BIGG BOSS 24/7 | STREAMX" group-logo="https://upload.wikimedia.org/wikipedia/en/d/da/Bigg_Boss_Hindi_TV_Series_Logo.jpg" tvg-logo="https://img10.hotstar.com/image/upload/f_auto,q_90,w_1080/sources/r1/cms/prod/9898/1788794499898-h",ENG-4K Bigboss 24/7 live-TELUGU
+#EXTHTTP:{"Origin":"https://www.hotstar.com","Referer":"https://www.hotstar.com/","Cookie":"hdntl=exp=1793458754~acl=%2f*~id=9dc98f22f0a19c6b3ca1023eae2a8713~data=hdntl~hmac=b8c6f890fc500ef2579dfe95686aebd3a4c40c69e1f5f6b1ca672d8d54ef4825"}
+#EXTVLCOPT:http-user-agent=Hotstar;in.startv.hotstar/25.02.24.8.11169@Premium Plugx(Android/15)
+https://live09p.hotstar.com/mp2/incagbsgallow-biggboss-tel-2026/f129670ca03b4bb988c841f9bbdce777/index_6.m3u8?|cookie=hdntl=exp=1793458754~acl=%2f*~id=9dc98f22f0a19c6b3ca1023eae2a8713~data=hdntl~hmac=b8c6f890fc500ef2579dfe95686aebd3a4c40c69e1f5f6b1ca672d8d54ef4825&referer=https://www.hotstar.com/&origin=https://www.hotstar.com&user-agent=Hotstar;in.startv.hotstar/25.02.24.8.11169@Premium Plugx(Android/15)
+
+#EXTINF:-1 group-title="BIGG BOSS 24/7 | STREAMX" group-logo="https://upload.wikimedia.org/wikipedia/en/d/da/Bigg_Boss_Hindi_TV_Series_Logo.jpg" tvg-logo="https://img10.hotstar.com/image/upload/f_auto,q_90,w_1080/sources/r1/cms/prod/6904/1788866256904-h",ENG-4K Bigboss 24/7 live-TAMIL
+#EXTHTTP:{"Origin":"https://www.hotstar.com","Referer":"https://www.hotstar.com/","Cookie":"hdntl=exp=1793458754~acl=%2f*~id=9dc98f22f0a19c6b3ca1023eae2a8713~data=hdntl~hmac=b8c6f890fc500ef2579dfe95686aebd3a4c40c69e1f5f6b1ca672d8d54ef4825"}
+#EXTVLCOPT:http-user-agent=Hotstar;in.startv.hotstar/25.02.24.8.11169@Premium Plugx(Android/15)
+https://live09p.hotstar.com/mp2/incagbsgallow-biggboss-tam-2026/0e8f0050df134b708ab297477fbf0e86/index_6.m3u8?|cookie=hdntl=exp=1793458754~acl=%2f*~id=9dc98f22f0a19c6b3ca1023eae2a8713~data=hdntl~hmac=b8c6f890fc500ef2579dfe95686aebd3a4c40c69e1f5f6b1ca672d8d54ef4825&referer=https://www.hotstar.com/&origin=https://www.hotstar.com&user-agent=Hotstar;in.startv.hotstar/25.02.24.8.11169@Premium Plugx(Android/15)
+
+#EXTINF:-1 group-title="BIGG BOSS 24/7 | STREAMX" group-logo="https://upload.wikimedia.org/wikipedia/en/d/da/Bigg_Boss_Hindi_TV_Series_Logo.jpg" tvg-logo="https://img10.hotstar.com/image/upload/f_auto,q_90,w_640/sources/r1/cms/prod/2305/1788708712305-h",Bigg Boss Hindi: 24 HRS Channel
+#EXTHTTP:{"Cookie":"hdntl=exp=1793494608~acl=%2f*~id=c76743551bae3306bef3c3968f749f2a~data=hdntl~hmac=d20b5acac348bdc0b707f8a5597504b0f658bf048d62eed52a8e184e01c146f3","Referer":"https://www.hotstar.com/","Origin":"https://www.hotstar.com"}
+#EXTVLCOPT:http-user-agent=Hotstar;in.startv.hotstar/25.02.24.8.11169@dtv(Android/15)
+https://live09p.hotstar.com/mp2/incagbsgallow-biggboss-hin-2026/93e0d4ee03b34575bbf8f8a55824de63/index_6.m3u8?&hdntl=exp=1793494608~acl=%2f*~id=c76743551bae3306bef3c3968f749f2a~data=hdntl~hmac=d20b5acac348bdc0b707f8a5597504b0f658bf048d62eed52a8e184e01c146f3
+
+#EXTINF:-1 group-title="BIGG BOSS 24/7 | STREAMX" group-logo="https://upload.wikimedia.org/wikipedia/en/d/da/Bigg_Boss_Hindi_TV_Series_Logo.jpg" tvg-logo="https://img10.hotstar.com/image/upload/f_auto/sources/r1/cms/prod/835/1788705250835-h",Bigg Boss Telugu: 24 HRS Channel
+#EXTHTTP:{"Cookie":"hdntl=exp=1793494608~acl=%2f*~id=c76743551bae3306bef3c3968f749f2a~data=hdntl~hmac=d20b5acac348bdc0b707f8a5597504b0f658bf048d62eed52a8e184e01c146f3","Referer":"https://www.hotstar.com/","Origin":"https://www.hotstar.com"}
+#EXTVLCOPT:http-user-agent=Hotstar;in.startv.hotstar/25.02.24.8.11169@dtv(Android/15)
+https://live09p.hotstar.com/mp2/incagbsgallow-biggboss-tel-2026/f129670ca03b4bb988c841f9bbdce777/index_6.m3u8?&hdntl=exp=1793494608~acl=%2f*~id=c76743551bae3306bef3c3968f749f2a~data=hdntl~hmac=d20b5acac348bdc0b707f8a5597504b0f658bf048d62eed52a8e184e01c146f3
+
+#EXTINF:-1 group-title="BIGG BOSS 24/7 | STREAMX" group-logo="https://upload.wikimedia.org/wikipedia/en/d/da/Bigg_Boss_Hindi_TV_Series_Logo.jpg" tvg-logo="https://img10.hotstar.com/image/upload/f_auto/sources/r1/cms/prod/3164/1788686783164-h",Bigg Boss Tamil: 24 HRS Channel
+#EXTHTTP:{"Cookie":"hdntl=exp=1793494608~acl=%2f*~id=c76743551bae3306bef3c3968f749f2a~data=hdntl~hmac=d20b5acac348bdc0b707f8a5597504b0f658bf048d62eed52a8e184e01c146f3","Referer":"https://www.hotstar.com/","Origin":"https://www.hotstar.com"}
+#EXTVLCOPT:http-user-agent=Hotstar;in.startv.hotstar/25.02.24.8.11169@dtv(Android/15)
+https://live09p.hotstar.com/mp2/incagbsgallow-biggboss-tam-2026/0e8f0050df134b708ab297477fbf0e86/index_6.m3u8?&hdntl=exp=1793494608~acl=%2f*~id=c76743551bae3306bef3c3968f749f2a~data=hdntl~hmac=d20b5acac348bdc0b707f8a5597504b0f658bf048d62eed52a8e184e01c146f3
+
+#EXTINF:-1 group-title="BIGG BOSS 24/7 | STREAMX" group-logo="https://upload.wikimedia.org/wikipedia/en/d/da/Bigg_Boss_Hindi_TV_Series_Logo.jpg" tvg-logo="https://img10.hotstar.com/image/upload/f_auto/sources/r1/cms/prod/6575/1788707966575-h",Bigg Boss Malayalam: 24 HRS Channel
+#EXTHTTP:{"Cookie":"hdntl=exp=1793494608~acl=%2f*~id=c76743551bae3306bef3c3968f749f2a~data=hdntl~hmac=d20b5acac348bdc0b707f8a5597504b0f658bf048d62eed52a8e184e01c146f3","Referer":"https://www.hotstar.com/","Origin":"https://www.hotstar.com"}
+#EXTVLCOPT:http-user-agent=Hotstar;in.startv.hotstar/25.02.24.8.11169@dtv(Android/15)
+https://live09p.hotstar.com/mp2/incagbsgallow-biggboss-mal-2026/28fdd2300bf04a60ac3c3318ff009886/index_6.m3u8?&hdntl=exp=1793494608~acl=%2f*~id=c76743551bae3306bef3c3968f749f2a~data=hdntl~hmac=d20b5acac348bdc0b707f8a5597504b0f658bf048d62eed52a8e184e01c146f3
+
+#EXTINF:-1 group-title="BIGG BOSS 24/7 | STREAMX" group-logo="https://upload.wikimedia.org/wikipedia/en/d/da/Bigg_Boss_Hindi_TV_Series_Logo.jpg" tvg-logo="https://img10.hotstar.com/image/upload/f_auto/sources/r1/cms/prod/6673/1788706616673-h",Bigg Boss Kannada: 24 HRS Channel
+#EXTHTTP:{"Cookie":"hdntl=exp=1793494608~acl=%2f*~id=c76743551bae3306bef3c3968f749f2a~data=hdntl~hmac=d20b5acac348bdc0b707f8a5597504b0f658bf048d62eed52a8e184e01c146f3","Referer":"https://www.hotstar.com/","Origin":"https://www.hotstar.com"}
+#EXTVLCOPT:http-user-agent=Hotstar;in.startv.hotstar/25.02.24.8.11169@dtv(Android/15)
+https://live09p.hotstar.com/mp1/incagbsgallow-biggboss-kan-2026/511768cd9dab414aa551e9d15da2202b/index_6.m3u8?&hdntl=exp=1793494608~acl=%2f*~id=c76743551bae3306bef3c3968f749f2a~data=hdntl~hmac=d20b5acac348bdc0b707f8a5597504b0f658bf048d62eed52a8e184e01c146f3
+
+#EXTINF:-1 group-title="BIGG BOSS 24/7 | STREAMX" group-logo="https://upload.wikimedia.org/wikipedia/en/d/da/Bigg_Boss_Hindi_TV_Series_Logo.jpg" tvg-logo="https://img10.hotstar.com/image/upload/f_auto/sources/r1/cms/prod/7635/1788653107635-h",Bigg Boss Bengali: 24 HRS Channel
+#EXTHTTP:{"Cookie":"hdntl=exp=1793494608~acl=%2f*~id=c76743551bae3306bef3c3968f749f2a~data=hdntl~hmac=d20b5acac348bdc0b707f8a5597504b0f658bf048d62eed52a8e184e01c146f3","Referer":"https://www.hotstar.com/","Origin":"https://www.hotstar.com"}
+#EXTVLCOPT:http-user-agent=Hotstar;in.startv.hotstar/25.02.24.8.11169@dtv(Android/15)
+https://live09p.hotstar.com/mp1/incagbsgallow-biggboss-ben-2026/d8b1f4b4b6ad493d845fb9669712ee6e/index_6.m3u8?&hdntl=exp=1793494608~acl=%2f*~id=c76743551bae3306bef3c3968f749f2a~data=hdntl~hmac=d20b5acac348bdc0b707f8a5597504b0f658bf048d62eed52a8e184e01c146f3
+
+#EXTINF:-1 group-title="BIGG BOSS 24/7 | STREAMX" group-logo="https://upload.wikimedia.org/wikipedia/en/d/da/Bigg_Boss_Hindi_TV_Series_Logo.jpg" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-8301-j7hc0820-v1/imageContent-8301-j7hc0820-m1.png",SS2 Hindi HD
+#EXTHTTP:{"Cookie":"hdntl=exp=1793494608~acl=%2f*~id=c76743551bae3306bef3c3968f749f2a~data=hdntl~hmac=d20b5acac348bdc0b707f8a5597504b0f658bf048d62eed52a8e184e01c146f3","Referer":"https://www.hotstar.com/","Origin":"https://www.hotstar.com"}
+#EXTVLCOPT:http-user-agent=Hotstar;in.startv.hotstar/25.02.24.8.11169%20(Android/15)
+https://jcevents.hotstar.com/bpk-tv/f0e3e64ae415771d8e460317ce97aa5e/Fallback/f0e3e64ae415771d8e460317ce97aa5e.m3u8?hdntl=exp=1793494608~acl=%2f*~id=c76743551bae3306bef3c3968f749f2a~data=hdntl~hmac=d20b5acac348bdc0b707f8a5597504b0f658bf048d62eed52a8e184e01c146f3
+
+#EXTINF:-1 group-title="BIGG BOSS 24/7 | STREAMX" group-logo="https://upload.wikimedia.org/wikipedia/en/d/da/Bigg_Boss_Hindi_TV_Series_Logo.jpg" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-8301-j7hc0820-v1/imageContent-8301-j7hc0820-m1.png",SS2 Hindi SD
+#EXTHTTP:{"Cookie":"hdntl=exp=1793494608~acl=%2f*~id=c76743551bae3306bef3c3968f749f2a~data=hdntl~hmac=d20b5acac348bdc0b707f8a5597504b0f658bf048d62eed52a8e184e01c146f3","Referer":"https://www.hotstar.com/","Origin":"https://www.hotstar.com"}
+#EXTVLCOPT:http-user-agent=Hotstar;in.startv.hotstar/25.02.24.8.11169%20(Android/15)
+https://jcevents.hotstar.com/bpk-tv/2c7182c8e6a22cfa6ebc02bbc9ed6dd0/Fallback/2c7182c8e6a22cfa6ebc02bbc9ed6dd0.m3u8?hdntl=exp=1793494608~acl=%2f*~id=c76743551bae3306bef3c3968f749f2a~data=hdntl~hmac=d20b5acac348bdc0b707f8a5597504b0f658bf048d62eed52a8e184e01c146f3
+
+#EXTINF:-1 group-title="BIGG BOSS 24/7 | STREAMX" group-logo="https://upload.wikimedia.org/wikipedia/en/d/da/Bigg_Boss_Hindi_TV_Series_Logo.jpg" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-8301-j7hc0820-v1/imageContent-8301-j7hc0820-m1.png",SS2 Tamil
+#EXTHTTP:{"Cookie":"hdntl=exp=1793494608~acl=%2f*~id=c76743551bae3306bef3c3968f749f2a~data=hdntl~hmac=d20b5acac348bdc0b707f8a5597504b0f658bf048d62eed52a8e184e01c146f3","Referer":"https://www.hotstar.com/","Origin":"https://www.hotstar.com"}
+#EXTVLCOPT:http-user-agent=Hotstar;in.startv.hotstar/25.02.24.8.11169%20(Android/15)
+https://jcevents.hotstar.com/bpk-tv/4db6f833701e78ae4443cb268020f03b/Fallback/4db6f833701e78ae4443cb268020f03b.m3u8?hdntl=exp=1793494608~acl=%2f*~id=c76743551bae3306bef3c3968f749f2a~data=hdntl~hmac=d20b5acac348bdc0b707f8a5597504b0f658bf048d62eed52a8e184e01c146f3
+
+#EXTINF:-1 group-title="BIGG BOSS 24/7 | STREAMX" group-logo="https://upload.wikimedia.org/wikipedia/en/d/da/Bigg_Boss_Hindi_TV_Series_Logo.jpg" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-8301-j7hc0820-v1/imageContent-8301-j7hc0820-m1.png",SS2 Telugu
+#EXTHTTP:{"Cookie":"hdntl=exp=1793494608~acl=%2f*~id=c76743551bae3306bef3c3968f749f2a~data=hdntl~hmac=d20b5acac348bdc0b707f8a5597504b0f658bf048d62eed52a8e184e01c146f3","Referer":"https://www.hotstar.com/","Origin":"https://www.hotstar.com"}
+#EXTVLCOPT:http-user-agent=Hotstar;in.startv.hotstar/25.02.24.8.11169%20(Android/15)
+https://jcevents.hotstar.com/bpk-tv/034d1fb94cae87294a06f4dc266084b9/Fallback/034d1fb94cae87294a06f4dc266084b9.m3u8?hdntl=exp=1793494608~acl=%2f*~id=c76743551bae3306bef3c3968f749f2a~data=hdntl~hmac=d20b5acac348bdc0b707f8a5597504b0f658bf048d62eed52a8e184e01c146f3
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=6752015acf084572a08dfe21796f8b45:ff823ddbe5625c35d3e93f0ed4520115
@@ -400,13 +480,6 @@ https://jiotvpllive.cdn.jio.com/bpk-tv/ZeeTV_BTS/WDVLive/index.mpd
 #EXTVLCOPT:http-user-agent=TiviMate/5.1.0
 #EXTHTTP:{"cookie":"","Origin":"https://www.jiotv.com/","Referer":"https://www.jiotv.com/"}
 https://jiotvmblive.cdn.jio.com/bpk-tv/Aaj_Tak_MOB/WDVLive/index.mpd
-
-#EXTINF:-1 tvg-id="2176" group-title="JioTV+ | Entertainment" group-logo="https://i.postimg.cc/52qG6sKt/STREAMXi.png" tvg-logo="https://yt3.googleusercontent.com/vIzIao3mUOa_nWNShkI1_IlixE1L0HJrTXZbJ0UtMcvzn5WWktnLPfdMd377J9TPZrE7zv9jPw=s900-c-k-c0x00ffffff-no-rj",Epic Crimes
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=e05bb7fccc9c541ebc3d180fb3004d1a:fd8ff50906c9b384c894ec084f8b6aee
-#EXTVLCOPT:http-user-agent=TiviMate/5.1.0
-#EXTHTTP:{"cookie":"","Origin":"https://www.jiotv.com/","Referer":"https://www.jiotv.com/"}
-https://cc-wsuyg2uxeak04.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-wsuyg2uxeak04/master.m3u8
 
 #EXTINF:-1 tvg-id="175" group-title="JioTV+ | Devotional" group-logo="https://i.postimg.cc/52qG6sKt/STREAMXi.png" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Aastha.png",Aastha
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -4784,25 +4857,25 @@ https://jiotvpllive.cdn.jio.com/bpk-tv/ZeeClassicSD_BTS/WDVLive/index.mpd
 #EXTHTTP:{"cookie":"","Origin":"https://www.jiotv.com/","Referer":"https://www.jiotv.com/"}
 https://mumt03.tangotv.in/Dsly5z3HGOLDMINESBOLLYWOOD/index.m3u8
 
-#EXTINF:-1 tvg-id="1005" group-title="JioTV+ | Movies" group-logo="https://i.postimg.cc/52qG6sKt/STREAMXi.png" tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/68/Goldmines.jpg",Goldmines
-#EXTVLCOPT:http-user-agent=TiviMate/5.1.0
-#EXTHTTP:{"cookie":"","Origin":"https://www.jiotv.com/","Referer":"https://www.jiotv.com/"}
-https://mumt04.tangotv.in/m18aqlK4GOLDMINES/index.m3u8
-
-#EXTINF:-1 tvg-id="0150" group-title="JioTV+ | Movies" group-logo="https://i.postimg.cc/52qG6sKt/STREAMXi.png" tvg-logo="https://i.postimg.cc/tTJMDJ95/Goldmines2.png",Goldmines 2
+#EXTINF:-1 tvg-id="1111" group-title="JioTV+ | Movies" group-logo="https://i.postimg.cc/52qG6sKt/STREAMXi.png" tvg-logo="https://i.postimg.cc/tTJMDJ95/Goldmines2.png",Goldmines 2
 #EXTVLCOPT:http-user-agent=TiviMate/5.1.0
 #EXTHTTP:{"cookie":"","Origin":"https://www.jiotv.com/","Referer":"https://www.jiotv.com/"}
 https://mumt03.tangotv.in/Dsly5z3HGOLDMINES2/index.m3u8
+
+#EXTINF:-1 tvg-id="1005" group-title="JioTV+ | Movies" group-logo="https://i.postimg.cc/52qG6sKt/STREAMXi.png" tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/68/Goldmines.jpg",Goldmines
+#EXTVLCOPT:http-user-agent=TiviMate/5.1.0
+#EXTHTTP:{"cookie":"","Origin":"https://www.jiotv.com/","Referer":"https://www.jiotv.com/"}
+https://streams.tangotv.in/GOLDMINES/ORIGIN/index.m3u8
+
+#EXTINF:-1 tvg-id="0154" group-title="JioTV+ | Movies" group-logo="https://i.postimg.cc/52qG6sKt/STREAMXi.png" tvg-logo="https://yt3.googleusercontent.com/d66J-MMZ06-55gkF5maclPGB5f5j1L0SAs3iWnl3lhoswlWrJ67wD2a3mZGkgHgt-W3kMrIT=s900-c-k-c0x00ffffff-no-rj",Goldmines Movies
+#EXTVLCOPT:http-user-agent=TiviMate/5.1.0
+#EXTHTTP:{"cookie":"","Origin":"https://www.jiotv.com/","Referer":"https://www.jiotv.com/"}
+https://streams.tangotv.in/GOLDMINEMOVIES/ORIGIN/index.m3u8
 
 #EXTINF:-1 tvg-id="0254" group-title="JioTV+ | Movies" group-logo="https://i.postimg.cc/52qG6sKt/STREAMXi.png" tvg-logo="https://yt3.googleusercontent.com/_X6U6bMLF-pTu5wBMFwsSI6aubGrXk2B0kUKdGiLIMqFLyDIne4Ot4ro76BS1S8fX3pWcCwS=s900-c-k-c0x00ffffff-no-rj",Goldmines Action
 #EXTVLCOPT:http-user-agent=TiviMate/5.1.0
 #EXTHTTP:{"cookie":"","Origin":"https://www.jiotv.com/","Referer":"https://www.jiotv.com/"}
 https://mumt03.tangotv.in/Dsly5z3HGOLDMINESACTION/index.m3u8
-
-#EXTINF:-1 tvg-id="0540" group-title="JioTV+ | Movies" group-logo="https://i.postimg.cc/52qG6sKt/STREAMXi.png" tvg-logo="https://yt3.googleusercontent.com/d66J-MMZ06-55gkF5maclPGB5f5j1L0SAs3iWnl3lhoswlWrJ67wD2a3mZGkgHgt-W3kMrIT=s900-c-k-c0x00ffffff-no-rj",Goldmines Movies
-#EXTVLCOPT:http-user-agent=TiviMate/5.1.0
-#EXTHTTP:{"cookie":"","Origin":"https://www.jiotv.com/","Referer":"https://www.jiotv.com/"}
-https://mumt04.tangotv.in/m18aqlK4GOLDMINEMOVIES/index.m3u8
 
 #EXTINF:-1 tvg-id="1692" group-title="JioTV+ | Odia" group-logo="https://i.postimg.cc/52qG6sKt/STREAMXi.png" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Badakhabar.png",Badakhabar
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -5241,7 +5314,7 @@ https://jiotvmblive.cdn.jio.com/bpk-tv/PMC_Hindi_MOB/WDVLive/index.mpd
 #EXTINF:-1 tvg-id="1972" group-title="JioTV+ | Marathi" group-logo="https://i.postimg.cc/52qG6sKt/STREAMXi.png" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/topnewsmarathi.png",Top News Marathi
 #EXTVLCOPT:http-user-agent=TiviMate/5.1.0
 #EXTHTTP:{"cookie":"","Origin":"https://www.jiotv.com/","Referer":"https://www.jiotv.com/"}
-https://jiotvmblive.cdn.jio.com/bpk-tv/topnewsmarathi/HLSPartner/index.m3u8
+https://live1.ottlive.co.in/topnewsmarathi/topnewsmarathi/index.m3u8
 
 #EXTINF:-1 tvg-id="1974" group-title="JioTV+ | Gujarati" group-logo="https://i.postimg.cc/52qG6sKt/STREAMXi.png" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Gujarat_First_24x7.png",Gujarat 1st 24x7
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -5257,25 +5330,25 @@ https://jiotvmblive.cdn.jio.com/bpk-tv/Gujarat_First_24x7_MOB/WDVLive/index.mpd
 #EXTHTTP:{"cookie":"","Origin":"https://www.jiotv.com/","Referer":"https://www.jiotv.com/"}
 https://jiotvmblive.cdn.jio.com/bpk-tv/PMC_Telugu_MOB/WDVLive/index.mpd
 
-#EXTINF:-1 tvg-id="1001" group-title="LIVE SPORTS | STREAMX" group-logo="https://i.postimg.cc/3xnDC1d6/live-sports.png" tvg-logo="https://i.postimg.cc/FH40r1LZ/unite8-1HD.png",Unite8 Sports 1 HD
+#EXTINF:-1 tvg-id="9624886" group-title="LIVE SPORTS | STREAMX" group-logo="https://i.postimg.cc/3xnDC1d6/live-sports.png" tvg-logo="https://i.postimg.cc/FH40r1LZ/unite8-1HD.png",Unite8 Sports 1 HD
 #EXTVLCOPT:http-user-agent=TiviMate/5.1.0
 #EXTHTTP:{"cookie":"","Origin":"https://www.jiotv.com/","Referer":"https://www.jiotv.com/"}
-https://bdix.spidy.online/MAC/SBHGOLD/play.php?id=281669
+https://d2o8pibksxtln6.cloudfront.net/live/media/Unite8_Sports_1_HD/dash/Unite8_Sports_1_HD.mpd
 
-#EXTINF:-1 tvg-id="1007" group-title="LIVE SPORTS | STREAMX" group-logo="https://i.postimg.cc/3xnDC1d6/live-sports.png" tvg-logo="https://i.postimg.cc/htng2RH2/Unite8-2HD.png",Unite8 Sports 2 HD
+#EXTINF:-1 tvg-id="9624884" group-title="LIVE SPORTS | STREAMX" group-logo="https://i.postimg.cc/3xnDC1d6/live-sports.png" tvg-logo="https://i.postimg.cc/htng2RH2/Unite8-2HD.png",Unite8 Sports 2 HD
 #EXTVLCOPT:http-user-agent=TiviMate/5.1.0
 #EXTHTTP:{"cookie":"","Origin":"https://www.jiotv.com/","Referer":"https://www.jiotv.com/"}
-https://bdix.spidy.online/MAC/SBHGOLD/play.php?id=281311
+https://d2o8pibksxtln6.cloudfront.net/live/media/Unite8_Sports_2_HD/dash/Unite8_Sports_2_HD.mpd
 
-#EXTINF:-1 tvg-id="1003" group-title="LIVE SPORTS | STREAMX" group-logo="https://i.postimg.cc/3xnDC1d6/live-sports.png" tvg-logo="https://i.postimg.cc/FKh4DWFG/unite8-1.jpg",Unite8 Sports 1 HD | TATA PLAY
+#EXTINF:-1 tvg-id="9624886" group-title="LIVE SPORTS | STREAMX" group-logo="https://i.postimg.cc/3xnDC1d6/live-sports.png" tvg-logo="https://i.postimg.cc/FKh4DWFG/unite8-1.jpg",Unite8 Sports 1 HD | TATA PLAY
 #EXTVLCOPT:http-user-agent=TiviMate/5.1.0
 #EXTHTTP:{"cookie":"","Origin":"https://www.jiotv.com/","Referer":"https://www.jiotv.com/"}
-http://tv.cloudcdn.me/live.ts?channelId=134096&uid=5410&deviceMac=00:1A:79:0E:F8:A1
+https://d2o8pibksxtln6.cloudfront.net/live/media/Unite8_Sports_1_HD/dash/Unite8_Sports_1_HD.mpd
 
-#EXTINF:-1 tvg-id="1066" group-title="LIVE SPORTS | STREAMX" group-logo="https://i.postimg.cc/3xnDC1d6/live-sports.png" tvg-logo="https://i.postimg.cc/qRX6WZ2w/unite8-2.jpg",Unite8 Sports 2 HD
+#EXTINF:-1 tvg-id="9624884" group-title="LIVE SPORTS | STREAMX" group-logo="https://i.postimg.cc/3xnDC1d6/live-sports.png" tvg-logo="https://i.postimg.cc/qRX6WZ2w/unite8-2.jpg",Unite8 Sports 2 HD
 #EXTVLCOPT:http-user-agent=TiviMate/5.1.0
 #EXTHTTP:{"cookie":"","Origin":"https://www.jiotv.com/","Referer":"https://www.jiotv.com/"}
-http://tv.cloudcdn.me/live.ts?channelId=134097&uid=5410&deviceMac=00:1A:79:0E:F8:A1
+https://d2o8pibksxtln6.cloudfront.net/live/media/Unite8_Sports_2_HD/dash/Unite8_Sports_2_HD.mpd
 
 #EXTINF:-1 tvg-id="tnt-sports-1" group-title="LIVE SPORTS | STREAMX" group-logo="https://i.postimg.cc/3xnDC1d6/live-sports.png" tvg-logo="https://i.postimg.cc/66RZfCPg/Screenshot-2024-01-15-22-01-44-34-40deb401b9ffe8e1df2f1cc5ba480b12.jpg",TNT Sports 1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -5298,7 +5371,7 @@ https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/puehlftk5j/out/v1
 #EXTHTTP:{"cookie":"","Origin":"https://www.jiotv.com/","Referer":"https://www.jiotv.com/"}
 https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/dev1hjwzh9/out/v1/a5f0ee7ad7b24906b14f43bebbbe4678/cenc.mpd
 
-#EXTINF:-1 tvg-id="tnt-sports-4" group-title="LIVE SPORTS | STREAMX" group-logo="https://i.postimg.cc/3xnDC1d6/live-sports.png" tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/6b/TNT_Sports_4_logo.png",TNT Sports 4
+#EXTINF:-1 tvg-id="tnt-sports-4" group-title="LIVE SPORTS | STREAMX" group-logo="https://i.postimg.cc/3xnDC1d6/live-sports.png" tvg-logo="https://media.info/l/o/1/1491.1690027975.png",TNT Sports 4
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=fa34fa8c90336dd528c7a23871cad1fe:552a78d1aeb74f1650d68255c5749408
 #EXTVLCOPT:http-user-agent=TiviMate/5.1.0
@@ -7716,6 +7789,11 @@ https://jiotvmblive.cdn.jio.com/bpk-tv/EPIC_TV_MOB/WDVLive/index.mpd
 #EXTHTTP:{"cookie":"","Origin":"https://www.jiotv.com/","Referer":"https://www.jiotv.com/"}
 https://jiotvmblive.cdn.jio.com/bpk-tv/Nazara_MOB/WDVLive/index.mpd
 
+#EXTINF:-1 tvg-id="2116" group-title="JioTV+ | Entertainment" group-logo="https://i.postimg.cc/52qG6sKt/STREAMXi.png" tvg-logo="https://yt3.googleusercontent.com/vIzIao3mUOa_nWNShkI1_IlixE1L0HJrTXZbJ0UtMcvzn5WWktnLPfdMd377J9TPZrE7zv9jPw=s900-c-k-c0x00ffffff-no-rj",Epic Crimes
+#EXTVLCOPT:http-user-agent=TiviMate/5.1.0
+#EXTHTTP:{"cookie":"","Origin":"https://www.jiotv.com/","Referer":"https://www.jiotv.com/"}
+https://cc-wsuyg2uxeak04.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-wsuyg2uxeak04/master.m3u8
+
 #EXTINF:-1 tvg-id="3384" group-title="JioTV+ | Bhojpuri" group-logo="https://i.postimg.cc/52qG6sKt/STREAMXi.png" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Filamchi_Bhojpuri.png",EPIC Bhojpuri
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=cff5580392c052a78302a940e350b02b:c4983c9e5cb98a14973664d0791a15bb
@@ -7767,14 +7845,14 @@ https://jiotvmblive.cdn.jio.com/bpk-tv/utvtamil/HLSPartner/index.m3u8
 
 #EXTINF:-1 tvg-id="162" group-title="JioTV+ | Sports" group-logo="https://i.postimg.cc/52qG6sKt/STREAMXi.png" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/SonyLIV_Sports_1.png",Sony LIV Sports 1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=3525c924e54154b39533d86b1c7a428a:8548b566fc6608a7d3bd601ee5f3d889
+#KODIPROP:inputstream.adaptive.license_key=4e4c5dba5bfe5a7c9338bc086eb80379:b8e8932f440084e1d2b705fa52eef94b
 #EXTVLCOPT:http-user-agent=TiviMate/5.1.0
 #EXTHTTP:{"cookie":"","Origin":"https://www.jiotv.com/","Referer":"https://www.jiotv.com/"}
 https://sliv.tgaadi.workers.dev/ten1hd.m3u8
 
 #EXTINF:-1 tvg-id="3373" group-title="JioTV+ | Sports" group-logo="https://i.postimg.cc/52qG6sKt/STREAMXi.png" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/SonyLIV_Sports_2.png",Sony LIV Sports 2
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=91fce77f2f8056f084ed961c7ebe86ed:8214bd5eb6c21444e8ea644824affd79
+#KODIPROP:inputstream.adaptive.license_key=ef24516ae38b50d18049343cd1cd998a:eb4810ec250a1795a0019dba7881ff45
 #EXTVLCOPT:http-user-agent=TiviMate/5.1.0
 #EXTHTTP:{"cookie":"","Origin":"https://www.jiotv.com/","Referer":"https://www.jiotv.com/"}
 https://sliv.tgaadi.workers.dev/ten2hd.m3u8
@@ -8599,21 +8677,33 @@ https://jiotvmblive.cdn.jio.com/bpk-tv/ETV_Telangana_MOB/WDVLive/index.mpd
 #EXTHTTP:{"cookie":"","Origin":"https://www.jiotv.com/","Referer":"https://www.jiotv.com/"}
 https://livestream.sunnxt.com/ed4c67ad957644b69361651d9101107e/ChintuTVB_IN_index.mpd
 
-#EXTINF:-1 tvg-id="ev-0.0790690722385029" group-title="LIVE SPORTS | STREAMX" group-logo="https://i.postimg.cc/3xnDC1d6/live-sports.png" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4249669_53087_TAS_NSW_FC-WEB.jpg",2026/27 [English]
-https://in-mc-flive.fancode.com/mumbai/4249669_english_hls_0ad52e993378592_1ta-di_h264/1080p.m3u8?hdntl=Expires=1793487556~_GO=Generated~acl=/mumbai/4249669_english_hls_0ad52e993378592_1ta-di_h264/*~SessionID=fc-app_sportsguruand_9b8_watcho_4fb5c5cd-dca8-41~Signature=ATFKiJtM4yqv7_lGCtpXcH2yXxvVHtkMe7CLVReX0iEUbgFeVuU2vISXOgCii4uakcpZUiTKM3aVW0Is_S0OLh15OVAA
+#EXTINF:-1 tvg-id="ev-0.7603596516836432" group-title="LIVE SPORTS | STREAMX" group-logo="https://i.postimg.cc/3xnDC1d6/live-sports.png" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/West-Indies-tour-of-Bangladesh-web-.jpg",2026 [English]
+https://in-mc-flive.fancode.com/mumbai/4250526_english_hls_d3c070eb3062034_1ta-di_h264/1080p.m3u8?hdntl=Expires=1793502739~_GO=Generated~acl=/mumbai/4250526_english_hls_d3c070eb3062034_1ta-di_h264/*~SessionID=fc-app_sportsguruand_f39_watcho_527b8621-7e58-4a~Signature=ATFKiJuq5dnmNElnQ6azaJHelJelZMekcrknZKAftEW0LktXT4SvUmQNrGFKIinv8p8JOdFk-mrWx9qoSa9ua3oMg9YK
 
-#EXTINF:-1 tvg-id="ev-0.13384541637781366" group-title="LIVE SPORTS | STREAMX" group-logo="https://i.postimg.cc/3xnDC1d6/live-sports.png" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4249670_53087_QUN_VCT_FC-WEB.jpg",2026/27 [English]
-https://in-mc-flive.fancode.com/mumbai/4249670_english_hls_72230a09d416519_1ta-di_h264/1080p.m3u8?hdntl=Expires=1793490617~_GO=Generated~acl=/mumbai/4249670_english_hls_72230a09d416519_1ta-di_h264/*~SessionID=fc-app_sportsguruand_494_watcho_0dced4d6-e051-43~Signature=ATFKiJu850NqEaV9tsqHZfoiQ8_kpx9-51kOpjjfk0L6TTqX732_qYa3XmapLHaMjV-6CyhjosrBC2MmFswohYFyrUcD
+#EXTINF:-1 tvg-id="ev-0.8152904372045248" group-title="LIVE SPORTS | STREAMX" group-logo="https://i.postimg.cc/3xnDC1d6/live-sports.png" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4250390_53125_AS-W_MS-W_fc-web_1793352701243.jpg",2026 [English]
+https://in-mc-flive.fancode.com/mumbai/4250390_english_hls_032d3a160a8611_1ta-di_h264/1080p.m3u8?hdntl=Expires=1793507591~_GO=Generated~acl=/mumbai/4250390_english_hls_032d3a160a8611_1ta-di_h264/*~SessionID=fc-app_sportsguruand_e8f_watcho_ac78f853-0b79-45~Signature=ATFKiJvt7MIneLB9KZWVDHY1p8SZrMyJz49Z8eDz59v6zUcR49ujQiFa2_pVD37tFI6r32fCsTeCNeUOJiEZQ6cxcxcE
 
-#EXTINF:-1 tvg-id="ev-0.497497394582327" group-title="LIVE SPORTS | STREAMX" group-logo="https://i.postimg.cc/3xnDC1d6/live-sports.png" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4250316_53120_OMA_AFG_fc-web.jpg",2026 [English]
-https://in-mc-flive.fancode.com/mumbai/4250316_english_hls_65409eddbf84014_1ta-di_h264/1080p.m3u8?hdntl=Expires=1793492435~_GO=Generated~acl=/mumbai/4250316_english_hls_65409eddbf84014_1ta-di_h264/*~SessionID=fc-app_sportsguruand_b92_watcho_fbb0f4e9-3f30-42~Signature=ATFKiJvppuyfy4_N89f1pRQhQHj2Zgd58IySacCJKeESDzzRqWvO2Nf5x3f5wkSteYEu-2AWVMYVl8Xb9PR3NRNBMtcN
+#EXTINF:-1 tvg-id="ev-0.8619208016240114" group-title="LIVE SPORTS | STREAMX" group-logo="https://i.postimg.cc/3xnDC1d6/live-sports.png" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/ICC-CWC-League_Web-match-card.png",2026 [English]
+https://in-mc-flive.fancode.com/mumbai/4250519_english_hls_52d639dd0845065_1ta-di_h264/1080p.m3u8?hdntl=Expires=1793510619~_GO=Generated~acl=/mumbai/4250519_english_hls_52d639dd0845065_1ta-di_h264/*~SessionID=fc-app_sportsguruand_d5e_watcho_81626f09-3ec1-47~Signature=ATFKiJsTh2IC2SilV8YAk0T8FL-NqDv4zgB087jyrUPrlAJv6jHYDh548PtBG28EOITY4QfKweeOrK4NrUE_dSv0ZNEM
 
-#EXTINF:-1 tvg-id="ev-0.6411182907928278" group-title="LIVE SPORTS | STREAMX" group-logo="https://i.postimg.cc/3xnDC1d6/live-sports.png" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4249668_53087_SAU_WAU_FC-WEB.jpg",2026/27 [English]
-https://in-mc-flive.fancode.com/mumbai/4249668_english_hls_a2c3979ec985476_1ta-di_h264/1080p.m3u8?hdntl=Expires=1793487555~_GO=Generated~acl=/mumbai/4249668_english_hls_a2c3979ec985476_1ta-di_h264/*~SessionID=fc-app_sportsguruand_b25_watcho_71faf523-0292-40~Signature=ATFKiJvvLu4h5HdI1dpocrIuIrgI1R5mtGillGNT9tgoegsEyr6ZlTd6kJqXxa1SxhW5BKsyyMo_X983rErFvs1Q_zcF
+#EXTINF:-1 tvg-id="ev-0.4323077526870196" group-title="LIVE SPORTS | STREAMX" group-logo="https://i.postimg.cc/3xnDC1d6/live-sports.png" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Cricket_FC-We.png",ICC CWC Challenge League A 2026 [English]
+https://in-mc-flive.fancode.com/mumbai/4250349_english_hls_a784cd9b8693638_1ta-di_h264/1080p.m3u8?hdntl=Expires=1793514861~_GO=Generated~acl=/mumbai/4250349_english_hls_a784cd9b8693638_1ta-di_h264/*~SessionID=fc-app_sportsguruand_9e8_watcho_289aa8e1-8da2-40~Signature=ATFKiJuv9bQgcep1hFkuyUfMHlek4_oeTEhy7f1o19nh08ngZ_RbCWi7W6guhTf-9p0rZAJsgZJGZqWEdJ6_MmvcFC4P
 
-#EXTINF:-1 tvg-id="ev-0.26748291632016197" group-title="LIVE SPORTS | STREAMX" group-logo="https://i.postimg.cc/3xnDC1d6/live-sports.png" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Petronas-Grand-Prix-of-Malaysia_fc-web.jpg",PETRONAS GRAND PRIX OF MALAYSIA 2026 [English]
+#EXTINF:-1 tvg-id="ev-0.8356038300514433" group-title="LIVE SPORTS | STREAMX" group-logo="https://i.postimg.cc/3xnDC1d6/live-sports.png" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Cricket_FC-We.png",ICC CWC Challenge League A 2026 [English]
+https://in-mc-flive.fancode.com/mumbai/4250350_english_hls_b54e08c6d873024_1ta-di_h264/1080p.m3u8?hdntl=Expires=1793514878~_GO=Generated~acl=/mumbai/4250350_english_hls_b54e08c6d873024_1ta-di_h264/*~SessionID=fc-app_sportsguruand_16e_watcho_12a52a96-64fa-4e~Signature=ATFKiJsUBZyz5I9hc37SCD2jv7D7rjKvPdIcSQ3Is-3JEqZMrEm77TW2yJVM6Ezw35KajGZWw50bnnayOLOQh74h1SsG
+
+#EXTINF:-1 tvg-id="ev-0.7071845620527715" group-title="LIVE SPORTS | STREAMX" group-logo="https://i.postimg.cc/3xnDC1d6/live-sports.png" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4250361_53124_LBL_CWR_fc-Web.jpg",2026 [English]
+https://in-mc-flive.fancode.com/mumbai/4250361_english_hls_e960221e3d18899_1ta-di_h264/1080p.m3u8?hdntl=Expires=1793514876~_GO=Generated~acl=/mumbai/4250361_english_hls_e960221e3d18899_1ta-di_h264/*~SessionID=fc-app_sportsguruand_f21_watcho_aaba2c16-179b-49~Signature=ATFKiJvSIf7CIRCNqkben_3n1NzPQ3Ge9rvBztd5JD9uyjzzgcFUYYSbzx8cKB_DvDBtzzJG0rAtYLeAUgiudwf9gRAA
+
+#EXTINF:-1 tvg-id="ev-0.8901066221954044" group-title="LIVE SPORTS | STREAMX" group-logo="https://i.postimg.cc/3xnDC1d6/live-sports.png" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/AUS-vs-UAE_fc-web.jpg",2026 [English]
+https://in-mc-flive.fancode.com/mumbai/4250323_english_hls_dfa22440b620315_1ta-di_h264/1080p.m3u8?hdntl=Expires=1793516694~_GO=Generated~acl=/mumbai/4250323_english_hls_dfa22440b620315_1ta-di_h264/*~SessionID=fc-app_sportsguruand_65d_watcho_26da29cd-661c-4c~Signature=ATFKiJtK1maSYA_Q9-52HGZbXj_pvZoz31sXHVNFSe8st_113IL-7-f1TQFTzypBuSo7r-3jylAcJCji3VUAN93FX8wO
+
+#EXTINF:-1 tvg-id="ev-0.1404340658108998" group-title="LIVE SPORTS | STREAMX" group-logo="https://i.postimg.cc/3xnDC1d6/live-sports.png" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Petronas-Grand-Prix-of-Malaysia_fc-web.jpg",PETRONAS GRAND PRIX OF MALAYSIA 2026 [English]
 https://in-mc-flive.fancode.com/mumbai/139982_english_hls_db06becffb50637_1ta-di_h264/1080p5.m3u8?hdntl=Expires=1793493042~_GO=Generated~acl=/mumbai/139982_english_hls_db06becffb50637_1ta-di_h264/*~SessionID=fc-app_sportsguruand_7cb_watcho_a23f8368-aaea-4a~Signature=ATFKiJtQfzcpJoinDCNFbY8F0F1o2uttGWXFkyj_Hf1B8Rd3NTVmMgn1b91rttUPNR2B2d7sEWk5SiB9cBh5SoLImVQF
 
-#EXTINF:-1 tvg-id="ev-0.6033380775317781" group-title="LIVE SPORTS | STREAMX" group-logo="https://i.postimg.cc/3xnDC1d6/live-sports.png" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027792/1793356107617263_NZ_A_vs_IND_A_2nd_Unofficial_Test_Day1_landscape_thumb.jpg",2nd Unofficial Test - Day 1 - 31 Oct 2026 [ENG] - India A Tour of New Zealand
-https://sonydaime.akamaized.net/hls/live/2120303/criclive3010/ENG/std_lrh-800300010.m3u8?hdnea=exp=1793452537~acl=/*~id=50520301810998247358865953550692~hmac=d0395e0b0dd4132af88dbe997a46fb2bd427572bfa8fc1ad1ae163c41864f2fc
+#EXTINF:-1 tvg-id="ev-0.7184103434432876" group-title="LIVE SPORTS | STREAMX" group-logo="https://i.postimg.cc/3xnDC1d6/live-sports.png" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4249848_53101_MLC_SYD_fc-Web_1792223293984.jpg",A-League 2026-27 [English]
+https://in-mc-flive.fancode.com/mumbai/4249848_english_hls_92b3aaec3c95357_1ta-di_h264/1080p.m3u8?hdntl=Expires=1793512435~_GO=Generated~acl=/mumbai/4249848_english_hls_92b3aaec3c95357_1ta-di_h264/*~SessionID=fc-app_sportsguruand_827_watcho_ff5bd30a-5957-44~Signature=ATFKiJvlCKEq7cHKN3T8XZfu-3B42c5xdYNr0TfxetkZul68gxi6kn0Z6pZ6siA88sCT9xfUdQbVkzWdlkc5btHu8zQJ
+
+#EXTINF:-1 tvg-id="ev-0.8122705125574843" group-title="LIVE SPORTS | STREAMX" group-logo="https://i.postimg.cc/3xnDC1d6/live-sports.png" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Wistron-Ladies-Open-2026_fc-web.jpg",Wistron Ladies Open 2026 [English]
+https://in-mc-flive.fancode.com/mumbai/4250514_english_hls_25387e8ba428316_1ta-di_h264/1080p.m3u8?hdntl=Expires=1793512437~_GO=Generated~acl=/mumbai/4250514_english_hls_25387e8ba428316_1ta-di_h264/*~SessionID=fc-app_sportsguruand_269_watcho_3a89a51c-924b-4f~Signature=ATFKiJutLHRUbrdTRpMXGOU3alcipVPMKJtgTujWI5wCkOYcl2V-RxGxxw4Sq8F0IcUOyL65zvY7Y_-Q4Q4_b5csDkcM
 
