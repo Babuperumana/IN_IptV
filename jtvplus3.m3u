@@ -1,5 +1,5 @@
 #EXTM3U x-tvg-url="https://avkb.short.gy/jioepg.xml.gz"
-# Generated: 3/11/2026, 05:49:52
+# Generated: 3/11/2026, 12:58:06
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=6752015acf084572a08dfe21796f8b45:ff823ddbe5625c35d3e93f0ed4520115
@@ -8597,18 +8597,6 @@ https://jiotvmblive.cdn.jio.com/bpk-tv/ETV_Telangana_MOB/WDVLive/index.mpd
 #EXTHTTP:{"cookie":"","Origin":"https://www.jiotv.com/","Referer":"https://www.jiotv.com/"}
 https://livestream.sunnxt.com/ed4c67ad957644b69361651d9101107e/ChintuTVB_IN_index.mpd
 
-#EXTINF:-1 tvg-id="ev-0.4409048380162597" group-title="LIVE SPORTS | STREAMX" group-logo="https://i.postimg.cc/3xnDC1d6/live-sports.png" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4249670_53087_QUN_VCT_FC-WEB.jpg",2026/27 [English]
-https://in-mc-flive.fancode.com/mumbai/4249670_english_hls_72230a09d488245_1ta-di_h264/1080p.m3u8?hdntl=Expires=1793748884~_GO=Generated~acl=/mumbai/4249670_english_hls_72230a09d488245_1ta-di_h264/*~SessionID=fc-app_sportsguruand_854_watcho_3690ae19-c231-4f~Signature=AV7HGj7CN8MJ7tFG0cuXTYpsFck-orJlrzDAyB8yFs8VGwK8x87wprxEhEc34EzIZzkbIdU468noSwGNiEVERwQR9xIL
-
-#EXTINF:-1 tvg-id="ev-0.32668546780293195" group-title="LIVE SPORTS | STREAMX" group-logo="https://i.postimg.cc/3xnDC1d6/live-sports.png" tvg-logo="https://images.fancode.com/aig/match/v1793599298969/4250629_CASACARDS_APP.png",LALIGA Hypermotion 2026-27 [English]
-https://in-mc-flive.fancode.com/mumbai/4250629_english_hls_ae2f69962270906_1ta-di_h264/1080p.m3u8?hdntl=Expires=1793735366~_GO=Generated~acl=/mumbai/4250629_english_hls_ae2f69962270906_1ta-di_h264/*~SessionID=fc-app_sportsguruand_857_watcho_5f28405e-2dc7-4f~Signature=AV7HGj6Jv3lxJMAy3fnz8CnILQD7CK_zYRPlqlsb3O9Pw5t8kFwYb5wsp4p4UXCIIE1huxkq3qfOW0YP4njQy6MLV6wH
-
-#EXTINF:-1 tvg-id="ev-0.5030997165568432" group-title="LIVE SPORTS | STREAMX" group-logo="https://i.postimg.cc/3xnDC1d6/live-sports.png" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Rolex-Paris-Masters_fc-web.jpg",ATP Masters - Rolex Paris Masters 2026 [English]
-https://in-mc-flive.fancode.com/mumbai/4250549_english_hls_cd610edfc088949_1ta-di_h264/1080p.m3u8?hdntl=Expires=1793728688~_GO=Generated~acl=/mumbai/4250549_english_hls_cd610edfc088949_1ta-di_h264/*~SessionID=fc-app_sportsguruand_8a3_watcho_7416d5a9-e1bc-49~Signature=AV7HGj50WBVowFiKt31by1is15f7CFIz1QY5rvlJmVI8XnbI7Hw5NFh7W7K_wMXFQmQjBpieqy3-uMQjxycJnyuhuAYO
-
-#EXTINF:-1 tvg-id="ev-0.8455325353448447" group-title="LIVE SPORTS | STREAMX" group-logo="https://i.postimg.cc/3xnDC1d6/live-sports.png" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Rolex-Paris-Masters_fc-web.jpg",ATP Masters - Rolex Paris Masters 2026 [English]
-https://in-mc-flive.fancode.com/mumbai/4250550_english_hls_af88dc9fb09822_1ta-di_h264/1080p.m3u8?hdntl=Expires=1793728077~_GO=Generated~acl=/mumbai/4250550_english_hls_af88dc9fb09822_1ta-di_h264/*~SessionID=fc-app_sportsguruand_311_watcho_500e06a2-cbfb-40~Signature=AV7HGj68Q4Uv82BztuuLuGPO7i5tAYVQOnKMiE36P6WjYMd0DeNM3FG9hzK1Skyqu42Gyp49TbJCx9q_iN-TnSziExEP
-
-#EXTINF:-1 tvg-id="ev-0.16520493101349576" group-title="LIVE SPORTS | STREAMX" group-logo="https://i.postimg.cc/3xnDC1d6/live-sports.png" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027943/179347590688283_NZ_A_vs_IND_A_2nd_Unofficial_Test_Day4_landscape_thumb.jpg",2nd Unofficial Test - Day 4 - 3 Nov 2026 [ENG] - India A Tour of New Zealand
-https://sonyeventsglobal.akamaized.net/hls/live/2120299/criclive0211/ENG/std_lrh-800300010.m3u8?hdnea=exp=1793708364~acl=/*~id=72234263933647427011817860045899~hmac=3f8064ff591ecc0835efe8fc39ff96baa1a915130173c924e9c571838e2b4cb3
+#EXTINF:-1 tvg-id="ev-0.5659563436204954" group-title="LIVE SPORTS | STREAMX" group-logo="https://i.postimg.cc/3xnDC1d6/live-sports.png" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4250366_53124_BK_JKB_fc-Web_1793616701848.jpg",2026 [English]
+https://in-mc-flive.fancode.com/mumbai/4250366_english_hls_88259a4e5e85082_1ta-di_h264/1080p.m3u8?hdntl=Expires=1793774390~_GO=Generated~acl=/mumbai/4250366_english_hls_88259a4e5e85082_1ta-di_h264/*~SessionID=fc-app_sportsguruand_65b_watcho_21c2375a-79eb-4c~Signature=AV7HGj49ETFnna7sO0LgGROYdmMG_8Gfg-qz_74pzIv9Cxk1MpZ3czIJKrJOy5UzKlN4ycNFvtuoxuoJZBV9Y20CfJoI
 
