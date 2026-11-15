@@ -1,5 +1,5 @@
 #EXTM3U x-tvg-url="https://avkb.short.gy/jioepg.xml.gz"
-# Generated: 15/11/2026, 12:56:24
+# Generated: 15/11/2026, 20:41:33
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=6752015acf084572a08dfe21796f8b45:ff823ddbe5625c35d3e93f0ed4520115
@@ -8768,21 +8768,9 @@ https://jiotvpllive.cdn.jio.com/bpk-tv/ETV_Life_BTS/WDVLive/index.mpd
 #EXTHTTP:{"cookie":"","Origin":"https://www.jiotv.com/","Referer":"https://www.jiotv.com/"}
 https://jiotvpllive.cdn.jio.com/bpk-tv/ETV_Telangana_BTS/WDVLive/index.mpd
 
-#EXTINF:-1 tvg-id="ev-0.28022130768288345" group-title="LIVE SPORTS | STREAMX" group-logo="https://i.postimg.cc/3xnDC1d6/live-sports.png" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029027/1794655981421358_NZvsIND_5th_ODI_landscape_thumb.jpg",5th ODI - 15 Nov 2026 [ENG] - India Tour of New Zealand 2026
-https://sonyeventsglobal.akamaized.net/hls/live/2119931/cricodi_1411/ENG/std_lrh-800300010.m3u8?hdnea=exp=1794769006~acl=/*~id=17554742986073818542133462758881~hmac=451744dcfe2372cb0d744dcb06ace0b346f7a93e4f035cc75d757cbd21432403
+#EXTINF:-1 tvg-id="ev-0.7913853591830297" group-title="LIVE SPORTS | STREAMX" group-logo="https://i.postimg.cc/3xnDC1d6/live-sports.png" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027715/1793198605065884_UNL26_MD6_Latvia_vs_Armenia_landscape_thumb.jpg",Latvia vs Armenia - 15 Nov 2026 [ENG] - UEFA Nations League 2026-27
+https://sonyeventsglobal.akamaized.net/hls/live/2120303/Footlive1511/ENG/std_lrh-800300010.m3u8?hdnea=exp=1794797642~acl=/*~id=36538416294883492886892089066198~hmac=94007b5b6d25b216be4a609ebeeadca9aa2653d0b8430fb7d9ac07f7d2fda811
 
-#EXTINF:-1 tvg-id="ev-0.46041172055284074" group-title="LIVE SPORTS | STREAMX" group-logo="https://i.postimg.cc/3xnDC1d6/live-sports.png" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029027/1794655981421358_NZvsIND_5th_ODI_landscape_thumb.jpg",5th ODI - 15 Nov 2026 [HIN] - India Tour of New Zealand 2026
-https://sonyeventsglobal.akamaized.net/hls/live/2119921/cricodi_1411/HIN/std_lrh-800300010.m3u8?hdnea=exp=1794769006~acl=/*~id=17554742986073818542133462758881~hmac=451744dcfe2372cb0d744dcb06ace0b346f7a93e4f035cc75d757cbd21432403
-
-#EXTINF:-1 tvg-id="ev-0.8177362888040977" group-title="LIVE SPORTS | STREAMX" group-logo="https://i.postimg.cc/3xnDC1d6/live-sports.png" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029027/1794655981421358_NZvsIND_5th_ODI_landscape_thumb.jpg",5th ODI - 15 Nov 2026 [TAM] - India Tour of New Zealand 2026
-https://sonyeventsglobal.akamaized.net/hls/live/2119951/cricodi_1411/TAM/std_lrh-800300010.m3u8?hdnea=exp=1794769006~acl=/*~id=17554742986073818542133462758881~hmac=451744dcfe2372cb0d744dcb06ace0b346f7a93e4f035cc75d757cbd21432403
-
-#EXTINF:-1 tvg-id="ev-0.04940648709905249" group-title="LIVE SPORTS | STREAMX" group-logo="https://i.postimg.cc/3xnDC1d6/live-sports.png" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029027/1794655981421358_NZvsIND_5th_ODI_landscape_thumb.jpg",5th ODI - 15 Nov 2026 [TEL] - India Tour of New Zealand 2026
-https://sonyeventsglobal.akamaized.net/hls/live/2119941/cricodi_1411/TEL/std_lrh-800300010.m3u8?hdnea=exp=1794769006~acl=/*~id=17554742986073818542133462758881~hmac=451744dcfe2372cb0d744dcb06ace0b346f7a93e4f035cc75d757cbd21432403
-
-#EXTINF:-1 tvg-id="ev-0.2227405914798244" group-title="LIVE SPORTS | STREAMX" group-logo="https://i.postimg.cc/3xnDC1d6/live-sports.png" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029027/1794655981421358_NZvsIND_5th_ODI_landscape_thumb.jpg",5th ODI - 15 Nov 2026 [KAN] - India Tour of New Zealand 2026
-https://sonyeventsglobal.akamaized.net/hls/live/2119782/cricodi_1411/KAN/std_lrh-800300010.m3u8?hdnea=exp=1794769006~acl=/*~id=17554742986073818542133462758881~hmac=451744dcfe2372cb0d744dcb06ace0b346f7a93e4f035cc75d757cbd21432403
-
-#EXTINF:-1 tvg-id="ev-0.32508155255541493" group-title="LIVE SPORTS | STREAMX" group-logo="https://i.postimg.cc/3xnDC1d6/live-sports.png" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000028796/1794398880189427_DP_World_Tour_Championship_Dubai_day4_landscape_thumb.jpg",Dubai - Day 4 - 15 Nov 2026 [ENG] - DP World Tour
-https://sonyeventsglobal.akamaized.net/hls/live/2120300/Golf_DPW1511/ENG/std_lrh-800300010.m3u8?hdnea=exp=1794769006~acl=/*~id=17554742986073818542133462758881~hmac=451744dcfe2372cb0d744dcb06ace0b346f7a93e4f035cc75d757cbd21432403
+#EXTINF:-1 tvg-id="ev-0.9477458695283179" group-title="LIVE SPORTS | STREAMX" group-logo="https://i.postimg.cc/3xnDC1d6/live-sports.png" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027754/1793248801127967_UNL26_MD6_Cyprus_vs_Montenegro_landscape_thumb.jpg",Cyprus vs Montenegro - 15 Nov 2026 [ENG] - UEFA Nations League 2026-27
+https://sonyeventsglobal.akamaized.net/hls/live/2120302/Footlive1511/ENG/std_lrh-800300010.m3u8?hdnea=exp=1794797642~acl=/*~id=36538416294883492886892089066198~hmac=94007b5b6d25b216be4a609ebeeadca9aa2653d0b8430fb7d9ac07f7d2fda811
 
