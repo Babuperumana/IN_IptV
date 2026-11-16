@@ -1,5 +1,5 @@
 #EXTM3U x-tvg-url="https://avkb.short.gy/jioepg.xml.gz"
-# Generated: 16/11/2026, 13:02:33
+# Generated: 16/11/2026, 23:17:04
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=6752015acf084572a08dfe21796f8b45:ff823ddbe5625c35d3e93f0ed4520115
@@ -8767,4 +8767,16 @@ https://jiotvpllive.cdn.jio.com/bpk-tv/ETV_Life_BTS/WDVLive/index.mpd
 #EXTVLCOPT:http-user-agent=TiviMate/5.1.0
 #EXTHTTP:{"cookie":"","Origin":"https://www.jiotv.com/","Referer":"https://www.jiotv.com/"}
 https://jiotvpllive.cdn.jio.com/bpk-tv/ETV_Telangana_BTS/WDVLive/index.mpd
+
+#EXTINF:-1 tvg-id="ev-0.7021516252645558" group-title="LIVE SPORTS | STREAMX" group-logo="https://i.postimg.cc/3xnDC1d6/live-sports.png" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027787/1793259677394700_UNL26_MD6_Iceland_vs_Luxembourg_landscape_thumb.jpg",Iceland vs Luxembourg - 16 Nov 2026 [ENG] - UEFA Nations League 2026-27
+https://sonyeventsglobal.akamaized.net/hls/live/2005444/Footlive1611/ENG/std_lrh-800300010.m3u8?hdnea=exp=1794893984~acl=/*~id=73697317520307698475832351779780~hmac=34c065c3fdcc4e3ec1138825f1592fc270f1f6fd320964e8d1daddd0bfc52327
+
+#EXTINF:-1 tvg-id="ev-0.46417030627218037" group-title="LIVE SPORTS | STREAMX" group-logo="https://i.postimg.cc/3xnDC1d6/live-sports.png" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027761/179326116564755_UNL26_MD6_Estonia_vs_Bulgaria_landscape_thumb.jpg",Estonia vs Bulgaria - 16 Nov 2026 [ENG] - UEFA Nations League 2026-27
+https://sonyeventsglobal.akamaized.net/hls/live/2018457/Footlive1611/ENG/std_lrh-800300010.m3u8?hdnea=exp=1794893984~acl=/*~id=73697317520307698475832351779780~hmac=34c065c3fdcc4e3ec1138825f1592fc270f1f6fd320964e8d1daddd0bfc52327
+
+#EXTINF:-1 tvg-id="ev-0.002925871862742846" group-title="LIVE SPORTS | STREAMX" group-logo="https://i.postimg.cc/3xnDC1d6/live-sports.png" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027835/1793267180605986_UNL26_MD6_Lithuania_vs_Liechtenstein_landscape_thumb.jpg",Lithuania vs Liechtenstein - 16 Nov 2026 [ENG] - UEFA Nations League 2026-27
+https://sonyeventsglobal.akamaized.net/hls/live/2094589/Footlive1611/ENG/std_lrh-800300010.m3u8?hdnea=exp=1794893984~acl=/*~id=73697317520307698475832351779780~hmac=34c065c3fdcc4e3ec1138825f1592fc270f1f6fd320964e8d1daddd0bfc52327
+
+#EXTINF:-1 tvg-id="ev-0.801995685134619" group-title="LIVE SPORTS | STREAMX" group-logo="https://i.postimg.cc/3xnDC1d6/live-sports.png" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029081/1794699615115191_INT_Friendlies26_Andorra_vs_Azerbaijan_live_landscape_thumb.jpg",Andorra vs Azerbaijan - 16 Nov 2026 [ENG] - UEFA International Friendlies
+https://sonyeventsglobal.akamaized.net/hls/live/2120300/Footlive1611/ENG/std_lrh-800300010.m3u8?hdnea=exp=1794893984~acl=/*~id=73697317520307698475832351779780~hmac=34c065c3fdcc4e3ec1138825f1592fc270f1f6fd320964e8d1daddd0bfc52327
 
