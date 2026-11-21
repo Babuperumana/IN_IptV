@@ -1,5 +1,5 @@
 #EXTM3U x-tvg-url="https://avkb.short.gy/jioepg.xml.gz"
-# Generated: 21/11/2026, 17:28:36
+# Generated: 22/11/2026, 00:20:19
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=6752015acf084572a08dfe21796f8b45:ff823ddbe5625c35d3e93f0ed4520115
@@ -529,10 +529,10 @@ https://jiotvpllive.cdn.jio.com/bpk-tv/MTV_HD_Plus_BTS/WDVLive/index.mpd
 
 #EXTINF:-1 tvg-id="250" group-title="JioTV+ | Music" group-logo="https://i.postimg.cc/52qG6sKt/STREAMXi.png" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Music_India.png",Music India
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=48240328d04d5e2ea776dd51a8098f8e:2e30947d51d3f5164ba4bb20a8433c7d
+#KODIPROP:inputstream.adaptive.license_key=https://sonyliv.yashnemade12250.workers.dev/key/250
 #EXTVLCOPT:http-user-agent=TiviMate/5.1.0
 #EXTHTTP:{"cookie":"","Origin":"https://www.jiotv.com/","Referer":"https://www.jiotv.com/"}
-https://d2o8pibksxtln6.cloudfront.net/live/media/Music_India/hls_fta/Music_India.m3u8
+https://jiotvpllive.cdn.jio.com/bpk-tv/Music_India_BTS/WDVLive/index.mpd
 
 #EXTINF:-1 tvg-id="255" group-title="JioTV+ | English" group-logo="https://i.postimg.cc/52qG6sKt/STREAMXi.png" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/NDTV_24x7.png",NDTV 24x7
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -8775,18 +8775,18 @@ https://jiotvpllive.cdn.jio.com/bpk-tv/ETV_Life_BTS/WDVLive/index.mpd
 #EXTHTTP:{"cookie":"","Origin":"https://www.jiotv.com/","Referer":"https://www.jiotv.com/"}
 https://jiotvpllive.cdn.jio.com/bpk-tv/ETV_Telangana_BTS/WDVLive/index.mpd
 
-#EXTINF:-1 tvg-id="ev-0.5815750291187906" group-title="LIVE SPORTS | STREAMX" group-logo="https://i.postimg.cc/3xnDC1d6/live-sports.png" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029480/1795172675588333_AsiaCup_RisingStar_BAN-vs-AFG_Live_landscape_thumb.jpg",Bangladesh A vs Afghanistan A - 21 Nov 2026 [ENG] - ACC Men's Asia Cup Rising Stars 2026
-https://sonyeventsglobal.akamaized.net/hls/live/2120303/criclive2111/ENG/std_lrh-800300010.m3u8?hdnea=exp=1795305370~acl=/*~id=50846941280423689597561556784116~hmac=5abe2fb274c186c6f26e411f2a28c21209bf56932ea6e5376f6523ddb71b8594
+#EXTINF:-1 tvg-id="ev-0.8455774528934731" group-title="LIVE SPORTS | STREAMX" group-logo="https://i.postimg.cc/3xnDC1d6/live-sports.png" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029535/1795216895013771_UFC_Fight_Night_Prochazka_vs_Stirling_landscape_thumb.jpg",UFC Fight Night - Prochazka vs Stirling - 21 Nov 2026 [ENG] - UFC Fight Night - Prochazka vs Stirling
+https://sonyeventsglobal.akamaized.net/hls/live/2120305/UFC_Proc2111/ENG/std_lrh-800300010.m3u8?hdnea=exp=1795329634~acl=/*~id=21381977917902831390075713926494~hmac=22f648fc9edfd7a1e7e631bce6f1932532a9f4a30aa3c4b611e31ef07362781b
 
-#EXTINF:-1 tvg-id="ev-0.4189868281251957" group-title="LIVE SPORTS | STREAMX" group-logo="https://i.postimg.cc/3xnDC1d6/live-sports.png" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029335/1794702022000862_ISL26_Chennaiyin_fC_vs_Punjab_FC_landscape_thumb.jpg",Chennaiyin FC vs Punjab FC - 21 Nov 2026 [ENG] - MG Indian Super League 2026-27
-https://sonyeventsglobal.akamaized.net/hls/live/2120301/Footlive2111/ENG/std_lrh-800300010.m3u8?hdnea=exp=1795305370~acl=/*~id=50846941280423689597561556784116~hmac=5abe2fb274c186c6f26e411f2a28c21209bf56932ea6e5376f6523ddb71b8594
+#EXTINF:-1 tvg-id="ev-0.640332286332128" group-title="LIVE SPORTS | STREAMX" group-logo="https://i.postimg.cc/3xnDC1d6/live-sports.png" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029535/1795216895013771_UFC_Fight_Night_Prochazka_vs_Stirling_landscape_thumb.jpg",UFC Fight Night - Prochazka vs Stirling - 21 Nov 2026 [HIN] - UFC Fight Night - Prochazka vs Stirling
+https://sonyeventsglobal.akamaized.net/hls/live/2120302/UFC_Proc2111/HIN/std_lrh-800300010.m3u8?hdnea=exp=1795329634~acl=/*~id=21381977917902831390075713926494~hmac=22f648fc9edfd7a1e7e631bce6f1932532a9f4a30aa3c4b611e31ef07362781b
 
-#EXTINF:-1 tvg-id="ev-0.9913097693363416" group-title="LIVE SPORTS | STREAMX" group-logo="https://i.postimg.cc/3xnDC1d6/live-sports.png" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029335/1794702022000862_ISL26_Chennaiyin_fC_vs_Punjab_FC_landscape_thumb.jpg",Chennaiyin FC vs Punjab FC - 21 Nov 2026 [HIN] - MG Indian Super League 2026-27
-https://sonyeventsglobal.akamaized.net/hls/live/2120301/Footlive2111/HIN/std_lrh-800300010.m3u8?hdnea=exp=1795305370~acl=/*~id=50846941280423689597561556784116~hmac=5abe2fb274c186c6f26e411f2a28c21209bf56932ea6e5376f6523ddb71b8594
+#EXTINF:-1 tvg-id="ev-0.5724774647016545" group-title="LIVE SPORTS | STREAMX" group-logo="https://i.postimg.cc/3xnDC1d6/live-sports.png" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029535/1795216895013771_UFC_Fight_Night_Prochazka_vs_Stirling_landscape_thumb.jpg",UFC Fight Night - Prochazka vs Stirling - 21 Nov 2026 [TAM] - UFC Fight Night - Prochazka vs Stirling
+https://sonyeventsglobal.akamaized.net/hls/live/2005444/UFC_Proc2111/TAM/std_lrh-800300010.m3u8?hdnea=exp=1795329634~acl=/*~id=21381977917902831390075713926494~hmac=22f648fc9edfd7a1e7e631bce6f1932532a9f4a30aa3c4b611e31ef07362781b
 
-#EXTINF:-1 tvg-id="ev-0.2652008086144765" group-title="LIVE SPORTS | STREAMX" group-logo="https://i.postimg.cc/3xnDC1d6/live-sports.png" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029335/1794702022000862_ISL26_Chennaiyin_fC_vs_Punjab_FC_landscape_thumb.jpg",Chennaiyin FC vs Punjab FC - 21 Nov 2026 [TAM] - MG Indian Super League 2026-27
-https://sonyeventsglobal.akamaized.net/hls/live/2120301/Footlive2111/TAM/std_lrh-800300010.m3u8?hdnea=exp=1795305370~acl=/*~id=50846941280423689597561556784116~hmac=5abe2fb274c186c6f26e411f2a28c21209bf56932ea6e5376f6523ddb71b8594
+#EXTINF:-1 tvg-id="ev-0.3611027956025431" group-title="LIVE SPORTS | STREAMX" group-logo="https://i.postimg.cc/3xnDC1d6/live-sports.png" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029535/1795216895013771_UFC_Fight_Night_Prochazka_vs_Stirling_landscape_thumb.jpg",UFC Fight Night - Prochazka vs Stirling - 21 Nov 2026 [TEL] - UFC Fight Night - Prochazka vs Stirling
+https://sonyeventsglobal.akamaized.net/hls/live/2120304/UFC_Proc2111/TEL/std_lrh-800300010.m3u8?hdnea=exp=1795329634~acl=/*~id=21381977917902831390075713926494~hmac=22f648fc9edfd7a1e7e631bce6f1932532a9f4a30aa3c4b611e31ef07362781b
 
-#EXTINF:-1 tvg-id="ev-0.5854292999540874" group-title="LIVE SPORTS | STREAMX" group-logo="https://i.postimg.cc/3xnDC1d6/live-sports.png" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029479/1795171533377724_AsiaCup_RisingStar_SRI-A_vs_HKC_Live_landscape_thumb.jpg",China - 21 Nov 2026 [ENG] - ACC Men's Asia Cup Rising Stars 2026
-https://sonyeventsglobal.akamaized.net/hls/live/2120299/criclive2111/ENG/std_lrh-800300010.m3u8?hdnea=exp=1795305370~acl=/*~id=50846941280423689597561556784116~hmac=5abe2fb274c186c6f26e411f2a28c21209bf56932ea6e5376f6523ddb71b8594
+#EXTINF:-1 tvg-id="ev-0.7020357952303036" group-title="LIVE SPORTS | STREAMX" group-logo="https://i.postimg.cc/3xnDC1d6/live-sports.png" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029535/1795216895013771_UFC_Fight_Night_Prochazka_vs_Stirling_landscape_thumb.jpg",UFC Fight Night - Prochazka vs Stirling - 21 Nov 2026 [KAN] - UFC Fight Night - Prochazka vs Stirling
+https://sonyeventsglobal.akamaized.net/hls/live/2120306/UFC_Proc2111/KAN/std_lrh-800300010.m3u8?hdnea=exp=1795329634~acl=/*~id=21381977917902831390075713926494~hmac=22f648fc9edfd7a1e7e631bce6f1932532a9f4a30aa3c4b611e31ef07362781b
 
