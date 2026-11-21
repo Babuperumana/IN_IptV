@@ -1,5 +1,5 @@
 #EXTM3U x-tvg-url="https://avkb.short.gy/jioepg.xml.gz"
-# Generated: 22/11/2026, 00:20:19
+# Generated: 22/11/2026, 05:11:08
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=6752015acf084572a08dfe21796f8b45:ff823ddbe5625c35d3e93f0ed4520115
@@ -8775,18 +8775,18 @@ https://jiotvpllive.cdn.jio.com/bpk-tv/ETV_Life_BTS/WDVLive/index.mpd
 #EXTHTTP:{"cookie":"","Origin":"https://www.jiotv.com/","Referer":"https://www.jiotv.com/"}
 https://jiotvpllive.cdn.jio.com/bpk-tv/ETV_Telangana_BTS/WDVLive/index.mpd
 
-#EXTINF:-1 tvg-id="ev-0.8455774528934731" group-title="LIVE SPORTS | STREAMX" group-logo="https://i.postimg.cc/3xnDC1d6/live-sports.png" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029535/1795216895013771_UFC_Fight_Night_Prochazka_vs_Stirling_landscape_thumb.jpg",UFC Fight Night - Prochazka vs Stirling - 21 Nov 2026 [ENG] - UFC Fight Night - Prochazka vs Stirling
-https://sonyeventsglobal.akamaized.net/hls/live/2120305/UFC_Proc2111/ENG/std_lrh-800300010.m3u8?hdnea=exp=1795329634~acl=/*~id=21381977917902831390075713926494~hmac=22f648fc9edfd7a1e7e631bce6f1932532a9f4a30aa3c4b611e31ef07362781b
+#EXTINF:-1 tvg-id="ev-0.15804545905250222" group-title="LIVE SPORTS | STREAMX" group-logo="https://i.postimg.cc/3xnDC1d6/live-sports.png" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029396/1795086806204996_NZvsIND_1st_Test_Day4_landscape_thumb.jpg",1st Test - Day 4 - 22 Nov 2026 [ENG] - India Tour of New Zealand 2026
+https://sonyeventsglobal.akamaized.net/hls/live/2119931/cricodi_2111/ENG/std_lrh-800300010.m3u8?hdnea=exp=1795347245~acl=/*~id=97322673210947970139392257680869~hmac=30cc026ac1019f0a61238166bad97d4b075959d0464e222219d2c77add417145
 
-#EXTINF:-1 tvg-id="ev-0.640332286332128" group-title="LIVE SPORTS | STREAMX" group-logo="https://i.postimg.cc/3xnDC1d6/live-sports.png" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029535/1795216895013771_UFC_Fight_Night_Prochazka_vs_Stirling_landscape_thumb.jpg",UFC Fight Night - Prochazka vs Stirling - 21 Nov 2026 [HIN] - UFC Fight Night - Prochazka vs Stirling
-https://sonyeventsglobal.akamaized.net/hls/live/2120302/UFC_Proc2111/HIN/std_lrh-800300010.m3u8?hdnea=exp=1795329634~acl=/*~id=21381977917902831390075713926494~hmac=22f648fc9edfd7a1e7e631bce6f1932532a9f4a30aa3c4b611e31ef07362781b
+#EXTINF:-1 tvg-id="ev-0.501849525515775" group-title="LIVE SPORTS | STREAMX" group-logo="https://i.postimg.cc/3xnDC1d6/live-sports.png" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029396/1795086806204996_NZvsIND_1st_Test_Day4_landscape_thumb.jpg",1st Test - Day 4 - 22 Nov 2026 [HIN] - India Tour of New Zealand 2026
+https://sonyeventsglobal.akamaized.net/hls/live/2119921/cricodi_2111/HIN/std_lrh-800300010.m3u8?hdnea=exp=1795347245~acl=/*~id=97322673210947970139392257680869~hmac=30cc026ac1019f0a61238166bad97d4b075959d0464e222219d2c77add417145
 
-#EXTINF:-1 tvg-id="ev-0.5724774647016545" group-title="LIVE SPORTS | STREAMX" group-logo="https://i.postimg.cc/3xnDC1d6/live-sports.png" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029535/1795216895013771_UFC_Fight_Night_Prochazka_vs_Stirling_landscape_thumb.jpg",UFC Fight Night - Prochazka vs Stirling - 21 Nov 2026 [TAM] - UFC Fight Night - Prochazka vs Stirling
-https://sonyeventsglobal.akamaized.net/hls/live/2005444/UFC_Proc2111/TAM/std_lrh-800300010.m3u8?hdnea=exp=1795329634~acl=/*~id=21381977917902831390075713926494~hmac=22f648fc9edfd7a1e7e631bce6f1932532a9f4a30aa3c4b611e31ef07362781b
+#EXTINF:-1 tvg-id="ev-0.949713338499281" group-title="LIVE SPORTS | STREAMX" group-logo="https://i.postimg.cc/3xnDC1d6/live-sports.png" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029396/1795086806204996_NZvsIND_1st_Test_Day4_landscape_thumb.jpg",1st Test - Day 4 - 22 Nov 2026 [TAM] - India Tour of New Zealand 2026
+https://sonyeventsglobal.akamaized.net/hls/live/2119951/cricodi_2111/TAM/std_lrh-800300010.m3u8?hdnea=exp=1795347245~acl=/*~id=97322673210947970139392257680869~hmac=30cc026ac1019f0a61238166bad97d4b075959d0464e222219d2c77add417145
 
-#EXTINF:-1 tvg-id="ev-0.3611027956025431" group-title="LIVE SPORTS | STREAMX" group-logo="https://i.postimg.cc/3xnDC1d6/live-sports.png" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029535/1795216895013771_UFC_Fight_Night_Prochazka_vs_Stirling_landscape_thumb.jpg",UFC Fight Night - Prochazka vs Stirling - 21 Nov 2026 [TEL] - UFC Fight Night - Prochazka vs Stirling
-https://sonyeventsglobal.akamaized.net/hls/live/2120304/UFC_Proc2111/TEL/std_lrh-800300010.m3u8?hdnea=exp=1795329634~acl=/*~id=21381977917902831390075713926494~hmac=22f648fc9edfd7a1e7e631bce6f1932532a9f4a30aa3c4b611e31ef07362781b
+#EXTINF:-1 tvg-id="ev-0.39298521806193765" group-title="LIVE SPORTS | STREAMX" group-logo="https://i.postimg.cc/3xnDC1d6/live-sports.png" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029396/1795086806204996_NZvsIND_1st_Test_Day4_landscape_thumb.jpg",1st Test - Day 4 - 22 Nov 2026 [TEL] - India Tour of New Zealand 2026
+https://sonyeventsglobal.akamaized.net/hls/live/2119941/cricodi_2111/TEL/std_lrh-800300010.m3u8?hdnea=exp=1795347245~acl=/*~id=97322673210947970139392257680869~hmac=30cc026ac1019f0a61238166bad97d4b075959d0464e222219d2c77add417145
 
-#EXTINF:-1 tvg-id="ev-0.7020357952303036" group-title="LIVE SPORTS | STREAMX" group-logo="https://i.postimg.cc/3xnDC1d6/live-sports.png" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029535/1795216895013771_UFC_Fight_Night_Prochazka_vs_Stirling_landscape_thumb.jpg",UFC Fight Night - Prochazka vs Stirling - 21 Nov 2026 [KAN] - UFC Fight Night - Prochazka vs Stirling
-https://sonyeventsglobal.akamaized.net/hls/live/2120306/UFC_Proc2111/KAN/std_lrh-800300010.m3u8?hdnea=exp=1795329634~acl=/*~id=21381977917902831390075713926494~hmac=22f648fc9edfd7a1e7e631bce6f1932532a9f4a30aa3c4b611e31ef07362781b
+#EXTINF:-1 tvg-id="ev-0.28001787858219174" group-title="LIVE SPORTS | STREAMX" group-logo="https://i.postimg.cc/3xnDC1d6/live-sports.png" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029396/1795086806204996_NZvsIND_1st_Test_Day4_landscape_thumb.jpg",1st Test - Day 4 - 22 Nov 2026 [KAN] - India Tour of New Zealand 2026
+https://sonyeventsglobal.akamaized.net/hls/live/2119782/cricodi_2111/KAN/std_lrh-800300010.m3u8?hdnea=exp=1795347245~acl=/*~id=97322673210947970139392257680869~hmac=30cc026ac1019f0a61238166bad97d4b075959d0464e222219d2c77add417145
 
