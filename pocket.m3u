@@ -236,31 +236,31 @@ https://jiotvmblive.cdn.jio.com/bpk-tv/Jaya_Plus_MOB/WDVLive/index.mpd?__hdnea__
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #EXTVLCOPT:http-user-agent=plaYtv/7.1.3 (Linux;Android 13) ygx/69.1 ExoPlayerLib/824.0
 #KODIPROP:inputstream.adaptive.license_key=06dd6287c4b956419d15d6c8e513aeed:a82d6b850b5c281c0054fc6d55e1c6ba,45825561f4ef516691a9e16d1d35dd1d:3951fe7fbf4b0b33e6246fc401f76797
-https://jiotvpllive.cdn.jio.com/bpk-tv/Star_Sports_HD1_BTS/WDVLive/index.mpd?__hdnea__=st=1795328888~exp=1795350488~acl=/bpk-tv/Star_Sports_HD1_BTS/WDVLive/*~hmac=902842f0f9a8938968807b704e88cb1ee780477d181d54d6bed867274d819a88
+https://jiotvpllive.cdn.jio.com/bpk-tv/Star_Sports_HD1_BTS/WDVLive/index.mpd?__hdnea__=st=1795357202~exp=1795378802~acl=/bpk-tv/Star_Sports_HD1_BTS/WDVLive/*~hmac=2d03a0c7d1a06fb65ce8d6d50754c03c7e6cca72a72756ee6b6d07a2c7e8e8ab
 
 #EXTINF:-1 tvg-id="1109" group-title="Sports" tvg-logo="https://tatalogo.pages.dev/235.png",Star Sports 2 HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=b99144f27b865d6ba1007fead82b2783:b2f10f09a771327b9bc69484d78e4595,c1ea31b9099b5030b14b67b41dc547d2:db74fb55442bc9cf7e8e9f364b3fe37f
 #EXTVLCOPT:http-user-agent=plaYtv/7.1.3 (Linux;Android 13) ygx/69.1 ExoPlayerLib/824.0
-https://jiotvpllive.cdn.jio.com/bpk-tv/Star_Sports_HD2_BTS/WDVLive/index.mpd?__hdnea__=st=1795328888~exp=1795350488~acl=/bpk-tv/Star_Sports_HD2_BTS/WDVLive/*~hmac=72f26142f468e6e0d8e23240b2d996a0c5d443b6e8c7e81d58758a86e146290f
+https://jiotvpllive.cdn.jio.com/bpk-tv/Star_Sports_HD2_BTS/WDVLive/index.mpd?__hdnea__=st=1795357203~exp=1795378803~acl=/bpk-tv/Star_Sports_HD2_BTS/WDVLive/*~hmac=a683026aa118c87b4c01e10448f60300e9412728964d5c2e80827ca6d4cb0f91
 
 #EXTINF:-1 tvg-id="1389" group-title="Sports" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-31405-jm2isen4-v1/imageContent-31405-jm2isen4-m1.png",Star Sports 3
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=2904732c8fb55ebeaa0f59316916997e:f69101b71872dcfb2cd1987d3773c0f4,82dc7db814ef5165a3d93102f40a5142:f767c4c59fbfeaf84754994a0ed5dc8b
 #EXTVLCOPT:http-user-agent=plaYtv/7.1.3 (Linux;Android 13) ygx/69.1 ExoPlayerLib/824.0
-https://jiotvpllive.cdn.jio.com/bpk-tv/Star_Sports_3_BTS/WDVLive/index.mpd?__hdnea__=st=1795328888~exp=1795350488~acl=/bpk-tv/Star_Sports_1_Telugu_BTS/WDVLive/*~hmac=2abba8c62fae73722d2340676e7f4bbf9f0db970df05cb50f977191632f98f94
+https://jiotvpllive.cdn.jio.com/bpk-tv/Star_Sports_3_BTS/WDVLive/index.mpd?__hdnea__=st=1795357203~exp=1795378803~acl=/bpk-tv/Star_Sports_1_Telugu_BTS/WDVLive/*~hmac=365df4a8190082498f9a7975afd1c35a81654f79810997e7df4d0fae81f3031e
 
 #EXTINF:-1 tvg-id="3277" group-title="Sports" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/SS1TAMHD_Thumbnail-v1/SS1TAMHD_Thumbnail.png",Star Sports 1 Tamil HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=1e9099af7f025ad6b3fd363bb2db8faf:c45a762695c40f6675b8b56ac50e97a5,439d31fa05525a99b856e852d035023b:83728b98188b1fa8bf69509e1796fb27
 #EXTVLCOPT:http-user-agent=plaYtv/7.1.3 (Linux;Android 13) ygx/69.1 ExoPlayerLib/824.0
-https://jiotvpllive.cdn.jio.com/bpk-tv/Star_Sports_1_Tamil_HD_BTS/WDVLive/index.mpd?__hdnea__=st=1795328888~exp=1795350488~acl=/bpk-tv/Star_Sports_1_Tamil_HD_BTS/WDVLive/*~hmac=6112c9d0550d4ed1ea417763211875db251277a4280d746b68e6f94988980681
+https://jiotvpllive.cdn.jio.com/bpk-tv/Star_Sports_1_Tamil_HD_BTS/WDVLive/index.mpd?__hdnea__=st=1795357203~exp=1795378803~acl=/bpk-tv/Star_Sports_1_Tamil_HD_BTS/WDVLive/*~hmac=f028d87090c3c31bdb4c40b7e2fa51322ed4c5c72da20c19c92483e1848f937f
 
 #EXTINF:-1 tvg-id="3273" group-title="Sports" tvg-logo="https://i.ibb.co/B26cyzHQ/Picsart-25-09-02-15-54-57-364.png",Star Sports 2 Tamil HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=92cfd893ab8551d59a773afce91fc790:906e0d6c4accf6bdaad9a6167f8ae53a,bd9dfd385dbc56a99a048f88d3828571:eecf613dad0b8250ffaddc7ba86be68b
 #EXTVLCOPT:http-user-agent=plaYtv/7.1.3 (Linux;Android 13) ygx/69.1 ExoPlayerLib/824.0
-https://jiotvpllive.cdn.jio.com/bpk-tv/Star_Sports2_Tamil_HD_BTS/WDVLive/index.mpd?__hdnea__=st=1795328888~exp=1795350488~acl=/bpk-tv/Star_Sports2_Tamil_HD_BTS/WDVLive/*~hmac=a3f266e523fd4d1cb729d8dcfe0f412bc4abb93e2cc1ffa13802fad3908f45fe
+https://jiotvpllive.cdn.jio.com/bpk-tv/Star_Sports2_Tamil_HD_BTS/WDVLive/index.mpd?__hdnea__=st=1795357203~exp=1795378803~acl=/bpk-tv/Star_Sports2_Tamil_HD_BTS/WDVLive/*~hmac=b8f7423cca1f40f299cecd6c480d80fddedb67264975f80e770434a81b12af67
 
 #EXTINF:-1 tvg-id="ts502" group-title="Sports" tvg-logo="https://dvdh7g0f0hwck.cloudfront.net/assets/images/channel/Unite8Sports1HD_Thumbnail_eba6519a-bf0a-4073-ab79-72441c22c9a0.png",Unite8 Sports 1 HD
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -276,13 +276,13 @@ https://d1iwj24qiokrul.cloudfront.net/live/media/Unite8_Sports_2_HD/dash/Unite8_
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=cc04426ac28359a7b620934ddbbecb7c:0074c460557b1f21a60fa0aada550e3a,8fc8499852ea5182b2a9307bd921cea1:c0ff2fbd59e26d6633f98af470c4d7b6
 #EXTVLCOPT:http-user-agent=plaYtv/7.1.3 (Linux;Android 13) ygx/69.1 ExoPlayerLib/824.0
-https://jiotvpllive.cdn.jio.com/bpk-tv/Star_Sports_Select_HD_1_BTS/WDVLive/index.mpd?__hdnea__=st=1795328888~exp=1795350488~acl=/bpk-tv/Star_Sports_Select_HD_1_BTS/WDVLive/*~hmac=19de4e912b01fb9431b5306e05a3273da88b43849c1d979be22408145d8ba082
+https://jiotvpllive.cdn.jio.com/bpk-tv/Star_Sports_Select_HD_1_BTS/WDVLive/index.mpd?__hdnea__=st=1795357203~exp=1795378803~acl=/bpk-tv/Star_Sports_Select_HD_1_BTS/WDVLive/*~hmac=797a2635df7316bf785ac865ca27aa572930781b6bdf0f78dbbb1c186ceab01d
 
 #EXTINF:-1 tvg-id="461" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11791-j9kyqpy8-v1/imageContent-11791-j9kyqpy8-m1.png" group-title="Sports",Star Sports Select 2 HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=2c443dffefb256a5b7a1364cc4af3529:1d78f35200eb5977a95de669788cf128,25fbb2a932b25e9aacae947b2f873d3c:ac6a6a416b9d26be6819e80c2fe5d39f
 #EXTVLCOPT:http-user-agent=plaYtv/7.1.3 (Linux;Android 13) ygx/69.1 ExoPlayerLib/824.0
-https://jiotvpllive.cdn.jio.com/bpk-tv/Star_Sports_Select_HD_2_BTS/WDVLive/index.mpd?__hdnea__=st=1795328888~exp=1795350488~acl=/bpk-tv/Star_Sports_Select_HD_1_BTS/WDVLive/*~hmac=19de4e912b01fb9431b5306e05a3273da88b43849c1d979be22408145d8ba082
+https://jiotvpllive.cdn.jio.com/bpk-tv/Star_Sports_Select_HD_2_BTS/WDVLive/index.mpd?__hdnea__=st=1795357203~exp=1795378803~acl=/bpk-tv/Star_Sports_Select_HD_1_BTS/WDVLive/*~hmac=797a2635df7316bf785ac865ca27aa572930781b6bdf0f78dbbb1c186ceab01d
 
 #EXTINF:-1 tvg-id="162" tvg-logo="https://tatalogo.pages.dev/81.png" group-title="Sports", Sony Sports Ten 1 HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
@@ -1318,11 +1318,15 @@ https://otte.live.fly.ww.aiv-cdn.net/syd-nitro/live/clients/dash/enc/8m8cd46i1t/
 #KODIPROP:inputstream.adaptive.license_key=7995c724a13748ed970840a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e
 https://otte.live.fly.ww.aiv-cdn.net/syd-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd
 
-#EXTINF:-1 tvg-id="PremierSports" tvg-name="Premier Sports HD" group-title="Sports" tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/V2.0/new/Premiers1.jpg",Premier Sports 1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=1444f4235529f183f0a5a486befe9cdb:e5e3fec67a1bb3472a2089c8a0a2557f
-#KODIPROP:inputstream.adaptive.stream_headers=referer=https://astrogo.astro.com.my//&user-agent=Mozilla/5.0 (Linux; Android 10; MI 9 Build/QKQ1.190825.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/111.0.5563.58 Mobile Safari/537.36
-https://otte.live.fly.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/m6sqanvm2m/out/v1/f6beb46c6e9a4132ad739f3ca27df6aa/cenc.mpd
+#EXTINF:-1 tvg-id="PremierSports1.uk" tvg-logo="https://m.media-amazon.com/images/G/01/LCXO_Station_Logos/premier_sports_1._SL170_FMpng_.png" group-title="Sports",Premier Sports 1
+http://otte.live.fly.ww.aiv-cdn.net/fra-nitro/live/clients/dash/enc/vwq77hfgzw/out/v1/b858e0b845c64cec953887bd4269e4ea/cenc.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"1a5df53609ebc9857898c490f4724918":"77f62980d582ec541280796acf8b2d19"}
+#EXTINF:-1 tvg-id="PremierSports2.uk" tvg-logo="https://m.media-amazon.com/images/G/01/LCXO_Station_Logos/premier_sports_2._SL170_FMpng_.png" group-title="Sports",Premier Sports 2
+http://otte.live.fly.ww.aiv-cdn.net/fra-nitro/live/clients/dash/enc/bcj3iscpd6/out/v1/fcd137b391214f7cb99dd4d7be90ca87/cenc.mpd
 
 #EXTINF:-1 group-title="Sports" tvg-id="TNTSports1.uk" tvg-logo="https://i.ibb.co.com/2tBx8pR/TNT1.png",TNT Sports 1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -1625,7 +1629,7 @@ https://mntv.livebox.co.in/mntvhls/live.m3u8
 https://mntv.livebox.co.in/musichls/live.m3u8
 #EXTINF:-1 tvg-logo="https://tataprime.wordpress.com/wp-content/uploads/2024/06/20240625_0713451452390300174130287.png" group-title="Music",SR Musix TV
 http://srnet.bmlive.net:1935/srmusic/myStream/playlist.m3u8
-#EXTINF:-1 tvg-id="RetroMusic" tvg-logo="" tvg-region="Unknown" group-title="Music",Retro Music
+#EXTINF:-1 tvg-id="RetroTV" tvg-logo="" tvg-region="Unknown" group-title="Local Channels",Retro TV
 https://sanplayout.xyz/live2/retromusichd/playlist.m3u8
 #EXTINF:-1 tvg-id="Tamil Ratna" tvg-logo="" tvg-region="Old" group-title="Local Channels",Tamil Ratna
 https://mumt04.tangotv.in/m18aqlK4TAMILRATNAM/index.m3u8
